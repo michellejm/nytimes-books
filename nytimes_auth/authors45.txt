@@ -1,0 +1,1 @@
+('Ann Cleeves', 'Christopher Paolini', 'Asha Lemmie', 'James Patterson and J.D. Barker', 'Lana Del Rey', 'Matt Haig', 'Rumaan Alam', 'Lee Child and Andrew Child', 'James Patterson and Shan Serafin', 'Susie Yang', 'Halsey')
