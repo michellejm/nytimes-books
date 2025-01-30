@@ -1,0 +1,885 @@
+author_x,birth,death,race_eth,education,institution,year,week,rank,title_id,title,author_y,problem,author_alt,author_1,author_2,_merge
+,,,,,,1995.0,1995-12-31,14.0,6336.0,THE SMALL ONE,Alex Walsh. Illustrated by Jesse Clay,True,Alex Walsh,Alex Walsh,,right_only
+,,,,,,2008.0,2008-03-02,15.0,974.0,CELEBUTANTES,Amanda Goldberg and Ruthanna Khalighi Hopper,True,Amanda Goldberg and Ruthanna Khalighi Hopper,Amanda Goldberg,Ruthanna Khalighi Hopper,right_only
+,,,,,,2011.0,2011-01-23,9.0,6836.0,THREE SECONDS,Anders Roslund and Borge Hellstrom,True,Anders Roslund and Borge Hellstrom,Anders Roslund,Borge Hellstrom,right_only
+,,,,,,2011.0,2011-01-30,8.0,6836.0,THREE SECONDS,Anders Roslund and Borge Hellstrom,True,Anders Roslund and Borge Hellstrom,Anders Roslund,Borge Hellstrom,right_only
+,,,,,,2011.0,2011-02-06,15.0,6836.0,THREE SECONDS,Anders Roslund and Borge Hellstrom,True,Anders Roslund and Borge Hellstrom,Anders Roslund,Borge Hellstrom,right_only
+,,,,,,2011.0,2011-02-13,15.0,6836.0,THREE SECONDS,Anders Roslund and Borge Hellstrom,True,Anders Roslund and Borge Hellstrom,Anders Roslund,Borge Hellstrom,right_only
+,,,,,,1944.0,1944-01-23,5.0,6478.0,THE TEN COMMANDMENTS,edited by Armin L. Robinson,True,Armin L. Robinson,Armin L. Robinson,,right_only
+,,,,,,1944.0,1944-01-30,5.0,6478.0,THE TEN COMMANDMENTS,edited by Armin L. Robinson,True,Armin L. Robinson,Armin L. Robinson,,right_only
+,,,,,,1980.0,1980-06-15,11.0,6372.0,THE SPIKE,Arnaud de Borchgrave and Robert Moss,True,Arnaud de Borchgrave and Robert Moss,Arnaud de Borchgrave,Robert Moss,right_only
+,,,,,,1980.0,1980-06-22,10.0,6372.0,THE SPIKE,Arnaud de Borchgrave and Robert Moss,True,Arnaud de Borchgrave and Robert Moss,Arnaud de Borchgrave,Robert Moss,right_only
+,,,,,,1980.0,1980-06-29,6.0,6372.0,THE SPIKE,Arnaud de Borchgrave and Robert Moss,True,Arnaud de Borchgrave and Robert Moss,Arnaud de Borchgrave,Robert Moss,right_only
+,,,,,,1980.0,1980-07-06,4.0,6372.0,THE SPIKE,Arnaud de Borchgrave and Robert Moss,True,Arnaud de Borchgrave and Robert Moss,Arnaud de Borchgrave,Robert Moss,right_only
+,,,,,,1980.0,1980-07-13,4.0,6372.0,THE SPIKE,Arnaud de Borchgrave and Robert Moss,True,Arnaud de Borchgrave and Robert Moss,Arnaud de Borchgrave,Robert Moss,right_only
+,,,,,,1980.0,1980-07-20,4.0,6372.0,THE SPIKE,Arnaud de Borchgrave and Robert Moss,True,Arnaud de Borchgrave and Robert Moss,Arnaud de Borchgrave,Robert Moss,right_only
+,,,,,,1980.0,1980-07-27,4.0,6372.0,THE SPIKE,Arnaud de Borchgrave and Robert Moss,True,Arnaud de Borchgrave and Robert Moss,Arnaud de Borchgrave,Robert Moss,right_only
+,,,,,,1980.0,1980-08-03,5.0,6372.0,THE SPIKE,Arnaud de Borchgrave and Robert Moss,True,Arnaud de Borchgrave and Robert Moss,Arnaud de Borchgrave,Robert Moss,right_only
+,,,,,,1980.0,1980-08-10,5.0,6372.0,THE SPIKE,Arnaud de Borchgrave and Robert Moss,True,Arnaud de Borchgrave and Robert Moss,Arnaud de Borchgrave,Robert Moss,right_only
+,,,,,,1980.0,1980-08-17,2.0,6372.0,THE SPIKE,Arnaud de Borchgrave and Robert Moss,True,Arnaud de Borchgrave and Robert Moss,Arnaud de Borchgrave,Robert Moss,right_only
+,,,,,,1980.0,1980-08-24,2.0,6372.0,THE SPIKE,Arnaud de Borchgrave and Robert Moss,True,Arnaud de Borchgrave and Robert Moss,Arnaud de Borchgrave,Robert Moss,right_only
+,,,,,,1980.0,1980-08-31,4.0,6372.0,THE SPIKE,Arnaud de Borchgrave and Robert Moss,True,Arnaud de Borchgrave and Robert Moss,Arnaud de Borchgrave,Robert Moss,right_only
+,,,,,,1980.0,1980-09-07,4.0,6372.0,THE SPIKE,Arnaud de Borchgrave and Robert Moss,True,Arnaud de Borchgrave and Robert Moss,Arnaud de Borchgrave,Robert Moss,right_only
+,,,,,,1980.0,1980-09-14,5.0,6372.0,THE SPIKE,Arnaud de Borchgrave and Robert Moss,True,Arnaud de Borchgrave and Robert Moss,Arnaud de Borchgrave,Robert Moss,right_only
+,,,,,,1980.0,1980-09-21,4.0,6372.0,THE SPIKE,Arnaud de Borchgrave and Robert Moss,True,Arnaud de Borchgrave and Robert Moss,Arnaud de Borchgrave,Robert Moss,right_only
+,,,,,,1980.0,1980-09-28,9.0,6372.0,THE SPIKE,Arnaud de Borchgrave and Robert Moss,True,Arnaud de Borchgrave and Robert Moss,Arnaud de Borchgrave,Robert Moss,right_only
+,,,,,,1980.0,1980-10-05,11.0,6372.0,THE SPIKE,Arnaud de Borchgrave and Robert Moss,True,Arnaud de Borchgrave and Robert Moss,Arnaud de Borchgrave,Robert Moss,right_only
+,,,,,,1980.0,1980-10-12,9.0,6372.0,THE SPIKE,Arnaud de Borchgrave and Robert Moss,True,Arnaud de Borchgrave and Robert Moss,Arnaud de Borchgrave,Robert Moss,right_only
+,,,,,,1980.0,1980-10-19,8.0,6372.0,THE SPIKE,Arnaud de Borchgrave and Robert Moss,True,Arnaud de Borchgrave and Robert Moss,Arnaud de Borchgrave,Robert Moss,right_only
+,,,,,,1980.0,1980-10-26,14.0,6372.0,THE SPIKE,Arnaud de Borchgrave and Robert Moss,True,Arnaud de Borchgrave and Robert Moss,Arnaud de Borchgrave,Robert Moss,right_only
+,,,,,,1980.0,1980-11-02,12.0,6372.0,THE SPIKE,Arnaud de Borchgrave and Robert Moss,True,Arnaud de Borchgrave and Robert Moss,Arnaud de Borchgrave,Robert Moss,right_only
+,,,,,,1962.0,1962-03-25,15.0,955.0,CASTLE DOR,Arthur Quiller-Couch and Daphne du Maurier,True,Arthur Quiller-Couch and Daphne du Maurier,Arthur Quiller-Couch,Daphne du Maurier,right_only
+,,,,,,1962.0,1962-04-01,15.0,955.0,CASTLE DOR,Arthur Quiller-Couch and Daphne du Maurier,True,Arthur Quiller-Couch and Daphne du Maurier,Arthur Quiller-Couch,Daphne du Maurier,right_only
+,,,,,,1990.0,1990-11-18,15.0,1207.0,CROW AND WEASEL,Barry Lopez. Illustrated by Tom Pohrt,True,Barry Lopez,Barry Lopez,,right_only
+,,,,,,1990.0,1990-12-02,15.0,1207.0,CROW AND WEASEL,Barry Lopez. Illustrated by Tom Pohrt,True,Barry Lopez,Barry Lopez,,right_only
+,,,,,,1990.0,1990-12-09,12.0,1207.0,CROW AND WEASEL,Barry Lopez. Illustrated by Tom Pohrt,True,Barry Lopez,Barry Lopez,,right_only
+,,,,,,1991.0,1991-01-20,15.0,1207.0,CROW AND WEASEL,Barry Lopez. Illustrated by Tom Pohrt,True,Barry Lopez,Barry Lopez,,right_only
+,,,,,,1947.0,1947-03-23,11.0,3119.0,MRS. MIKE,Benedict Freedman and Nancy Freedman,True,Benedict Freedman and Nancy Freedman,Benedict Freedman,Nancy Freedman,right_only
+,,,,,,1947.0,1947-03-30,7.0,3119.0,MRS. MIKE,Benedict Freedman and Nancy Freedman,True,Benedict Freedman and Nancy Freedman,Benedict Freedman,Nancy Freedman,right_only
+,,,,,,1947.0,1947-04-06,5.0,3119.0,MRS. MIKE,Benedict Freedman and Nancy Freedman,True,Benedict Freedman and Nancy Freedman,Benedict Freedman,Nancy Freedman,right_only
+,,,,,,1947.0,1947-04-13,5.0,3119.0,MRS. MIKE,Benedict Freedman and Nancy Freedman,True,Benedict Freedman and Nancy Freedman,Benedict Freedman,Nancy Freedman,right_only
+,,,,,,1947.0,1947-04-20,5.0,3119.0,MRS. MIKE,Benedict Freedman and Nancy Freedman,True,Benedict Freedman and Nancy Freedman,Benedict Freedman,Nancy Freedman,right_only
+,,,,,,1947.0,1947-04-27,5.0,3119.0,MRS. MIKE,Benedict Freedman and Nancy Freedman,True,Benedict Freedman and Nancy Freedman,Benedict Freedman,Nancy Freedman,right_only
+,,,,,,1947.0,1947-05-04,5.0,3119.0,MRS. MIKE,Benedict Freedman and Nancy Freedman,True,Benedict Freedman and Nancy Freedman,Benedict Freedman,Nancy Freedman,right_only
+,,,,,,1947.0,1947-05-11,5.0,3119.0,MRS. MIKE,Benedict Freedman and Nancy Freedman,True,Benedict Freedman and Nancy Freedman,Benedict Freedman,Nancy Freedman,right_only
+,,,,,,1947.0,1947-05-18,5.0,3119.0,MRS. MIKE,Benedict Freedman and Nancy Freedman,True,Benedict Freedman and Nancy Freedman,Benedict Freedman,Nancy Freedman,right_only
+,,,,,,1947.0,1947-05-25,6.0,3119.0,MRS. MIKE,Benedict Freedman and Nancy Freedman,True,Benedict Freedman and Nancy Freedman,Benedict Freedman,Nancy Freedman,right_only
+,,,,,,1947.0,1947-06-01,5.0,3119.0,MRS. MIKE,Benedict Freedman and Nancy Freedman,True,Benedict Freedman and Nancy Freedman,Benedict Freedman,Nancy Freedman,right_only
+,,,,,,1947.0,1947-06-08,8.0,3119.0,MRS. MIKE,Benedict Freedman and Nancy Freedman,True,Benedict Freedman and Nancy Freedman,Benedict Freedman,Nancy Freedman,right_only
+,,,,,,1947.0,1947-06-15,8.0,3119.0,MRS. MIKE,Benedict Freedman and Nancy Freedman,True,Benedict Freedman and Nancy Freedman,Benedict Freedman,Nancy Freedman,right_only
+,,,,,,1947.0,1947-06-22,8.0,3119.0,MRS. MIKE,Benedict Freedman and Nancy Freedman,True,Benedict Freedman and Nancy Freedman,Benedict Freedman,Nancy Freedman,right_only
+,,,,,,1947.0,1947-06-29,10.0,3119.0,MRS. MIKE,Benedict Freedman and Nancy Freedman,True,Benedict Freedman and Nancy Freedman,Benedict Freedman,Nancy Freedman,right_only
+,,,,,,1947.0,1947-07-06,10.0,3119.0,MRS. MIKE,Benedict Freedman and Nancy Freedman,True,Benedict Freedman and Nancy Freedman,Benedict Freedman,Nancy Freedman,right_only
+,,,,,,1947.0,1947-07-13,9.0,3119.0,MRS. MIKE,Benedict Freedman and Nancy Freedman,True,Benedict Freedman and Nancy Freedman,Benedict Freedman,Nancy Freedman,right_only
+,,,,,,1947.0,1947-07-20,9.0,3119.0,MRS. MIKE,Benedict Freedman and Nancy Freedman,True,Benedict Freedman and Nancy Freedman,Benedict Freedman,Nancy Freedman,right_only
+,,,,,,1947.0,1947-07-27,10.0,3119.0,MRS. MIKE,Benedict Freedman and Nancy Freedman,True,Benedict Freedman and Nancy Freedman,Benedict Freedman,Nancy Freedman,right_only
+,,,,,,1947.0,1947-08-03,13.0,3119.0,MRS. MIKE,Benedict Freedman and Nancy Freedman,True,Benedict Freedman and Nancy Freedman,Benedict Freedman,Nancy Freedman,right_only
+,,,,,,1947.0,1947-08-10,10.0,3119.0,MRS. MIKE,Benedict Freedman and Nancy Freedman,True,Benedict Freedman and Nancy Freedman,Benedict Freedman,Nancy Freedman,right_only
+,,,,,,1947.0,1947-08-17,8.0,3119.0,MRS. MIKE,Benedict Freedman and Nancy Freedman,True,Benedict Freedman and Nancy Freedman,Benedict Freedman,Nancy Freedman,right_only
+,,,,,,1947.0,1947-08-24,13.0,3119.0,MRS. MIKE,Benedict Freedman and Nancy Freedman,True,Benedict Freedman and Nancy Freedman,Benedict Freedman,Nancy Freedman,right_only
+,,,,,,1947.0,1947-08-31,14.0,3119.0,MRS. MIKE,Benedict Freedman and Nancy Freedman,True,Benedict Freedman and Nancy Freedman,Benedict Freedman,Nancy Freedman,right_only
+,,,,,,1947.0,1947-09-07,13.0,3119.0,MRS. MIKE,Benedict Freedman and Nancy Freedman,True,Benedict Freedman and Nancy Freedman,Benedict Freedman,Nancy Freedman,right_only
+,,,,,,2012.0,2012-05-20,15.0,4135.0,SKINNYDIPPING,Bethenny Frankel with Eve Adamson,True,Bethenny Frankel with Eve Adamson,Bethenny Frankel,Eve Adamson,right_only
+,,,,,,1983.0,1983-09-04,12.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1983.0,1983-09-11,10.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1983.0,1983-09-18,7.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1983.0,1983-09-25,7.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1983.0,1983-10-02,6.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1983.0,1983-10-09,6.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1983.0,1983-10-16,7.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1983.0,1983-10-23,8.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1983.0,1983-10-30,6.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1983.0,1983-11-06,6.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1983.0,1983-11-13,7.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1983.0,1983-11-20,6.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1983.0,1983-11-27,9.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1983.0,1983-12-04,10.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1983.0,1983-12-11,4.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1983.0,1983-12-18,3.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1983.0,1983-12-25,4.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1984.0,1984-01-01,4.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1984.0,1984-01-08,4.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1984.0,1984-01-15,5.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1984.0,1984-01-22,3.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1984.0,1984-01-29,1.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1984.0,1984-02-05,2.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1984.0,1984-02-12,2.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1984.0,1984-02-19,2.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1984.0,1984-02-26,2.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1984.0,1984-03-04,3.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1984.0,1984-03-11,5.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1984.0,1984-03-18,5.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1984.0,1984-03-25,5.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1984.0,1984-04-01,3.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1984.0,1984-04-08,7.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1984.0,1984-04-15,5.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1984.0,1984-04-22,10.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1984.0,1984-04-29,14.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1984.0,1984-05-06,17.0,7278.0,WHO KILLED THE ROBINS FAMILY?,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1984.0,1984-08-26,15.0,6133.0,THE REVENGE OF THE ROBINS FAMILY,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1984.0,1984-09-02,15.0,6133.0,THE REVENGE OF THE ROBINS FAMILY,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1984.0,1984-09-09,13.0,6133.0,THE REVENGE OF THE ROBINS FAMILY,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,1984.0,1984-09-16,15.0,6133.0,THE REVENGE OF THE ROBINS FAMILY,created by Bill Adler and written by Thomas Chastain,True,created by Bill Adler and written by Thomas Chastain,Bill Adler,written by Thomas Chastain,right_only
+,,,,,,2018.0,2018-06-24,1.0,6043.0,THE PRESIDENT IS MISSING,Bill Clinton and James Patterson,True,Bill Clinton and James Patterson,Bill Clinton,James Patterson,right_only
+,,,,,,2018.0,2018-07-01,1.0,6043.0,THE PRESIDENT IS MISSING,Bill Clinton and James Patterson,True,Bill Clinton and James Patterson,Bill Clinton,James Patterson,right_only
+,,,,,,2018.0,2018-07-08,1.0,6043.0,THE PRESIDENT IS MISSING,Bill Clinton and James Patterson,True,Bill Clinton and James Patterson,Bill Clinton,James Patterson,right_only
+,,,,,,2018.0,2018-07-15,1.0,6043.0,THE PRESIDENT IS MISSING,Bill Clinton and James Patterson,True,Bill Clinton and James Patterson,Bill Clinton,James Patterson,right_only
+,,,,,,2018.0,2018-07-22,1.0,6043.0,THE PRESIDENT IS MISSING,Bill Clinton and James Patterson,True,Bill Clinton and James Patterson,Bill Clinton,James Patterson,right_only
+,,,,,,2018.0,2018-07-29,1.0,6043.0,THE PRESIDENT IS MISSING,Bill Clinton and James Patterson,True,Bill Clinton and James Patterson,Bill Clinton,James Patterson,right_only
+,,,,,,2018.0,2018-08-05,2.0,6043.0,THE PRESIDENT IS MISSING,Bill Clinton and James Patterson,True,Bill Clinton and James Patterson,Bill Clinton,James Patterson,right_only
+,,,,,,2018.0,2018-08-12,2.0,6043.0,THE PRESIDENT IS MISSING,Bill Clinton and James Patterson,True,Bill Clinton and James Patterson,Bill Clinton,James Patterson,right_only
+,,,,,,2018.0,2018-08-19,1.0,6043.0,THE PRESIDENT IS MISSING,Bill Clinton and James Patterson,True,Bill Clinton and James Patterson,Bill Clinton,James Patterson,right_only
+,,,,,,2018.0,2018-08-26,2.0,6043.0,THE PRESIDENT IS MISSING,Bill Clinton and James Patterson,True,Bill Clinton and James Patterson,Bill Clinton,James Patterson,right_only
+,,,,,,2018.0,2018-09-02,2.0,6043.0,THE PRESIDENT IS MISSING,Bill Clinton and James Patterson,True,Bill Clinton and James Patterson,Bill Clinton,James Patterson,right_only
+,,,,,,2018.0,2018-09-09,2.0,6043.0,THE PRESIDENT IS MISSING,Bill Clinton and James Patterson,True,Bill Clinton and James Patterson,Bill Clinton,James Patterson,right_only
+,,,,,,2018.0,2018-09-16,3.0,6043.0,THE PRESIDENT IS MISSING,Bill Clinton and James Patterson,True,Bill Clinton and James Patterson,Bill Clinton,James Patterson,right_only
+,,,,,,2018.0,2018-09-23,3.0,6043.0,THE PRESIDENT IS MISSING,Bill Clinton and James Patterson,True,Bill Clinton and James Patterson,Bill Clinton,James Patterson,right_only
+,,,,,,2018.0,2018-09-30,7.0,6043.0,THE PRESIDENT IS MISSING,Bill Clinton and James Patterson,True,Bill Clinton and James Patterson,Bill Clinton,James Patterson,right_only
+,,,,,,2018.0,2018-10-07,9.0,6043.0,THE PRESIDENT IS MISSING,Bill Clinton and James Patterson,True,Bill Clinton and James Patterson,Bill Clinton,James Patterson,right_only
+,,,,,,2018.0,2018-10-14,14.0,6043.0,THE PRESIDENT IS MISSING,Bill Clinton and James Patterson,True,Bill Clinton and James Patterson,Bill Clinton,James Patterson,right_only
+,,,,,,2019.0,2019-01-06,15.0,6043.0,THE PRESIDENT IS MISSING,Bill Clinton and James Patterson,True,Bill Clinton and James Patterson,Bill Clinton,James Patterson,right_only
+,,,,,,1999.0,1999-10-24,13.0,1568.0,DUNE: House Atreides,Brian Herbert and Kevin J. Anderson,True,Brian Herbert and Kevin J. Anderson,Brian Herbert,Kevin J. Anderson,right_only
+,,,,,,1999.0,1999-10-31,12.0,1568.0,DUNE: House Atreides,Brian Herbert and Kevin J. Anderson,True,Brian Herbert and Kevin J. Anderson,Brian Herbert,Kevin J. Anderson,right_only
+,,,,,,1999.0,1999-11-07,13.0,1568.0,DUNE: House Atreides,Brian Herbert and Kevin J. Anderson,True,Brian Herbert and Kevin J. Anderson,Brian Herbert,Kevin J. Anderson,right_only
+,,,,,,1999.0,1999-11-14,16.0,1568.0,DUNE: House Atreides,Brian Herbert and Kevin J. Anderson,True,Brian Herbert and Kevin J. Anderson,Brian Herbert,Kevin J. Anderson,right_only
+,,,,,,2000.0,2000-10-22,11.0,1570.0,DUNE: House Harkonnen,Brian Herbert and Kevin J. Anderson,True,Brian Herbert and Kevin J. Anderson,Brian Herbert,Kevin J. Anderson,right_only
+,,,,,,2000.0,2000-10-29,8.0,1570.0,DUNE: House Harkonnen,Brian Herbert and Kevin J. Anderson,True,Brian Herbert and Kevin J. Anderson,Brian Herbert,Kevin J. Anderson,right_only
+,,,,,,2000.0,2000-11-05,12.0,1570.0,DUNE: House Harkonnen,Brian Herbert and Kevin J. Anderson,True,Brian Herbert and Kevin J. Anderson,Brian Herbert,Kevin J. Anderson,right_only
+,,,,,,2000.0,2000-11-12,14.0,1570.0,DUNE: House Harkonnen,Brian Herbert and Kevin J. Anderson,True,Brian Herbert and Kevin J. Anderson,Brian Herbert,Kevin J. Anderson,right_only
+,,,,,,2001.0,2001-10-21,8.0,1569.0,DUNE: House Corrino,Brian Herbert and Kevin J. Anderson,True,Brian Herbert and Kevin J. Anderson,Brian Herbert,Kevin J. Anderson,right_only
+,,,,,,2001.0,2001-10-28,9.0,1569.0,DUNE: House Corrino,Brian Herbert and Kevin J. Anderson,True,Brian Herbert and Kevin J. Anderson,Brian Herbert,Kevin J. Anderson,right_only
+,,,,,,2001.0,2001-11-04,12.0,1569.0,DUNE: House Corrino,Brian Herbert and Kevin J. Anderson,True,Brian Herbert and Kevin J. Anderson,Brian Herbert,Kevin J. Anderson,right_only
+,,,,,,2001.0,2001-11-11,15.0,1569.0,DUNE: House Corrino,Brian Herbert and Kevin J. Anderson,True,Brian Herbert and Kevin J. Anderson,Brian Herbert,Kevin J. Anderson,right_only
+,,,,,,2002.0,2002-10-06,9.0,1571.0,DUNE: THE BUTLERIAN JIHAD,Brian Herbert and Kevin J. Anderson,True,Brian Herbert and Kevin J. Anderson,Brian Herbert,Kevin J. Anderson,right_only
+,,,,,,2002.0,2002-10-13,7.0,1571.0,DUNE: THE BUTLERIAN JIHAD,Brian Herbert and Kevin J. Anderson,True,Brian Herbert and Kevin J. Anderson,Brian Herbert,Kevin J. Anderson,right_only
+,,,,,,2002.0,2002-10-20,12.0,1571.0,DUNE: THE BUTLERIAN JIHAD,Brian Herbert and Kevin J. Anderson,True,Brian Herbert and Kevin J. Anderson,Brian Herbert,Kevin J. Anderson,right_only
+,,,,,,2003.0,2003-10-05,7.0,1572.0,DUNE: THE MACHINE CRUSADE,Brian Herbert and Kevin J. Anderson,True,Brian Herbert and Kevin J. Anderson,Brian Herbert,Kevin J. Anderson,right_only
+,,,,,,2003.0,2003-10-12,9.0,1572.0,DUNE: THE MACHINE CRUSADE,Brian Herbert and Kevin J. Anderson,True,Brian Herbert and Kevin J. Anderson,Brian Herbert,Kevin J. Anderson,right_only
+,,,,,,2004.0,2004-09-05,10.0,1573.0,DUNE: The Battle of Corrin,Brian Herbert and Kevin J. Anderson,True,Brian Herbert and Kevin J. Anderson,Brian Herbert,Kevin J. Anderson,right_only
+,,,,,,2004.0,2004-09-12,9.0,1573.0,DUNE: The Battle of Corrin,Brian Herbert and Kevin J. Anderson,True,Brian Herbert and Kevin J. Anderson,Brian Herbert,Kevin J. Anderson,right_only
+,,,,,,2004.0,2004-09-19,13.0,1573.0,DUNE: The Battle of Corrin,Brian Herbert and Kevin J. Anderson,True,Brian Herbert and Kevin J. Anderson,Brian Herbert,Kevin J. Anderson,right_only
+,,,,,,2004.0,2004-09-26,13.0,1573.0,DUNE: The Battle of Corrin,Brian Herbert and Kevin J. Anderson,True,Brian Herbert and Kevin J. Anderson,Brian Herbert,Kevin J. Anderson,right_only
+,,,,,,2006.0,2006-09-10,3.0,2300.0,HUNTERS OF DUNE,Brian Herbert and Kevin J. Anderson,True,Brian Herbert and Kevin J. Anderson,Brian Herbert,Kevin J. Anderson,right_only
+,,,,,,2006.0,2006-09-17,7.0,2300.0,HUNTERS OF DUNE,Brian Herbert and Kevin J. Anderson,True,Brian Herbert and Kevin J. Anderson,Brian Herbert,Kevin J. Anderson,right_only
+,,,,,,2006.0,2006-09-24,9.0,2300.0,HUNTERS OF DUNE,Brian Herbert and Kevin J. Anderson,True,Brian Herbert and Kevin J. Anderson,Brian Herbert,Kevin J. Anderson,right_only
+,,,,,,2007.0,2007-08-26,4.0,3913.0,SANDWORMS OF DUNE,Brian Herbert and Kevin J. Anderson,True,Brian Herbert and Kevin J. Anderson,Brian Herbert,Kevin J. Anderson,right_only
+,,,,,,2007.0,2007-09-02,6.0,3913.0,SANDWORMS OF DUNE,Brian Herbert and Kevin J. Anderson,True,Brian Herbert and Kevin J. Anderson,Brian Herbert,Kevin J. Anderson,right_only
+,,,,,,2007.0,2007-09-09,10.0,3913.0,SANDWORMS OF DUNE,Brian Herbert and Kevin J. Anderson,True,Brian Herbert and Kevin J. Anderson,Brian Herbert,Kevin J. Anderson,right_only
+,,,,,,2007.0,2007-09-16,14.0,3913.0,SANDWORMS OF DUNE,Brian Herbert and Kevin J. Anderson,True,Brian Herbert and Kevin J. Anderson,Brian Herbert,Kevin J. Anderson,right_only
+,,,,,,2008.0,2008-10-05,11.0,3482.0,PAUL OF DUNE,Brian Herbert and Kevin J. Anderson,True,Brian Herbert and Kevin J. Anderson,Brian Herbert,Kevin J. Anderson,right_only
+,,,,,,2009.0,2009-08-23,15.0,6708.0,THE WINDS OF DUNE,Brian Herbert and Kevin J. Anderson,True,Brian Herbert and Kevin J. Anderson,Brian Herbert,Kevin J. Anderson,right_only
+,,,,,,2001.0,2001-10-21,4.0,4620.0,THE BEST-LOVED POEMS OF JACQUELINE KENNEDY ONASSIS,selected by Caroline Kennedy,True,selected by Caroline Kennedy,Caroline Kennedy,,right_only
+,,,,,,2001.0,2001-10-28,6.0,4620.0,THE BEST-LOVED POEMS OF JACQUELINE KENNEDY ONASSIS,selected by Caroline Kennedy,True,selected by Caroline Kennedy,Caroline Kennedy,,right_only
+,,,,,,2001.0,2001-11-04,7.0,4620.0,THE BEST-LOVED POEMS OF JACQUELINE KENNEDY ONASSIS,selected by Caroline Kennedy,True,selected by Caroline Kennedy,Caroline Kennedy,,right_only
+,,,,,,2001.0,2001-11-11,8.0,4620.0,THE BEST-LOVED POEMS OF JACQUELINE KENNEDY ONASSIS,selected by Caroline Kennedy,True,selected by Caroline Kennedy,Caroline Kennedy,,right_only
+,,,,,,2001.0,2001-11-18,12.0,4621.0,THE BEST-LOVED POEMS OF JACQUELINE KENNEDY ONASSIs,selected by Caroline Kennedy,True,selected by Caroline Kennedy,Caroline Kennedy,,right_only
+,,,,,,2001.0,2001-11-25,12.0,4621.0,THE BEST-LOVED POEMS OF JACQUELINE KENNEDY ONASSIs,selected by Caroline Kennedy,True,selected by Caroline Kennedy,Caroline Kennedy,,right_only
+,,,,,,2001.0,2001-12-02,9.0,4620.0,THE BEST-LOVED POEMS OF JACQUELINE KENNEDY ONASSIS,selected by Caroline Kennedy,True,selected by Caroline Kennedy,Caroline Kennedy,,right_only
+,,,,,,2001.0,2001-12-09,13.0,4621.0,THE BEST-LOVED POEMS OF JACQUELINE KENNEDY ONASSIs,selected by Caroline Kennedy,True,selected by Caroline Kennedy,Caroline Kennedy,,right_only
+,,,,,,2001.0,2001-12-16,8.0,4620.0,THE BEST-LOVED POEMS OF JACQUELINE KENNEDY ONASSIS,selected by Caroline Kennedy,True,selected by Caroline Kennedy,Caroline Kennedy,,right_only
+,,,,,,2001.0,2001-12-23,10.0,4620.0,THE BEST-LOVED POEMS OF JACQUELINE KENNEDY ONASSIS,selected by Caroline Kennedy,True,selected by Caroline Kennedy,Caroline Kennedy,,right_only
+,,,,,,2001.0,2001-12-30,6.0,4620.0,THE BEST-LOVED POEMS OF JACQUELINE KENNEDY ONASSIS,selected by Caroline Kennedy,True,selected by Caroline Kennedy,Caroline Kennedy,,right_only
+,,,,,,2002.0,2002-01-06,10.0,4620.0,THE BEST-LOVED POEMS OF JACQUELINE KENNEDY ONASSIS,selected by Caroline Kennedy,True,selected by Caroline Kennedy,Caroline Kennedy,,right_only
+,,,,,,2002.0,2002-01-13,10.0,4620.0,THE BEST-LOVED POEMS OF JACQUELINE KENNEDY ONASSIS,selected by Caroline Kennedy,True,selected by Caroline Kennedy,Caroline Kennedy,,right_only
+,,,,,,2002.0,2002-01-20,11.0,4620.0,THE BEST-LOVED POEMS OF JACQUELINE KENNEDY ONASSIS,selected by Caroline Kennedy,True,selected by Caroline Kennedy,Caroline Kennedy,,right_only
+,,,,,,2002.0,2002-01-27,14.0,4620.0,THE BEST-LOVED POEMS OF JACQUELINE KENNEDY ONASSIS,selected by Caroline Kennedy,True,selected by Caroline Kennedy,Caroline Kennedy,,right_only
+,,,,,,1934.0,1934-01-15,3.0,2960.0,MEN AGAINST THE SEA,Charles Nordhoff and James N. Hall,True,Charles Nordhoff and James N. Hall,Charles Nordhoff,James N. Hall,right_only
+,,,,,,1934.0,1934-01-22,4.0,2960.0,MEN AGAINST THE SEA,Charles Nordhoff and James N. Hall,True,Charles Nordhoff and James N. Hall,Charles Nordhoff,James N. Hall,right_only
+,,,,,,1934.0,1934-01-29,4.0,2960.0,MEN AGAINST THE SEA,Charles Nordhoff and James N. Hall,True,Charles Nordhoff and James N. Hall,Charles Nordhoff,James N. Hall,right_only
+,,,,,,1934.0,1934-02-05,5.0,2960.0,MEN AGAINST THE SEA,Charles Nordhoff and James N. Hall,True,Charles Nordhoff and James N. Hall,Charles Nordhoff,James N. Hall,right_only
+,,,,,,1934.0,1934-03-05,8.0,2960.0,MEN AGAINST THE SEA,Charles Nordhoff and James N. Hall,True,Charles Nordhoff and James N. Hall,Charles Nordhoff,James N. Hall,right_only
+,,,,,,1934.0,1934-11-12,2.0,3529.0,PITCAIRN'S ISLAND,Charles Nordloff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1934.0,1934-11-19,2.0,3529.0,PITCAIRN'S ISLAND,Charles Nordloff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1934.0,1934-11-26,3.0,3529.0,PITCAIRN'S ISLAND,Charles Nordloff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1934.0,1934-12-03,2.0,3529.0,PITCAIRN'S ISLAND,Charles Nordloff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1934.0,1934-12-10,5.0,3529.0,PITCAIRN'S ISLAND,Charles Nordloff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1934.0,1934-12-17,7.0,3529.0,PITCAIRN'S ISLAND,Charles Nordloff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1936.0,1936-02-17,2.0,5447.0,THE HURRICANE,Charles Nordloff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1936.0,1936-02-24,2.0,5447.0,THE HURRICANE,Charles Nordloff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1936.0,1936-03-02,2.0,5447.0,THE HURRICANE,Charles Nordloff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1936.0,1936-03-09,3.0,5447.0,THE HURRICANE,Charles Nordloff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1936.0,1936-03-16,2.0,5447.0,THE HURRICANE,Charles Nordloff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1936.0,1936-03-23,2.0,5447.0,THE HURRICANE,Charles Nordloff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1936.0,1936-03-30,2.0,5447.0,THE HURRICANE,Charles Nordloff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1936.0,1936-04-06,3.0,5447.0,THE HURRICANE,Charles Nordloff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1936.0,1936-04-13,3.0,5447.0,THE HURRICANE,Charles Nordloff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1936.0,1936-04-20,5.0,5447.0,THE HURRICANE,Charles Nordloff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1936.0,1936-04-27,5.0,5447.0,THE HURRICANE,Charles Nordloff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1936.0,1936-05-04,5.0,5447.0,THE HURRICANE,Charles Nordloff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1938.0,1938-07-04,6.0,4928.0,THE DARK RIVER,Charles Nordloff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1938.0,1938-07-11,4.0,4928.0,THE DARK RIVER,Charles Nordloff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1938.0,1938-07-18,7.0,4928.0,THE DARK RIVER,Charles Nordloff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1938.0,1938-07-25,5.0,4928.0,THE DARK RIVER,Charles Nordloff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1938.0,1938-09-05,4.0,4928.0,THE DARK RIVER,Charles Nordloff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1938.0,1938-09-12,6.0,4928.0,THE DARK RIVER,Charles Nordloff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1941.0,1941-11-24,6.0,817.0,BOTANY BAY,Charles Nordhoff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1941.0,1941-12-08,6.0,817.0,BOTANY BAY,Charles Nordhoff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1941.0,1941-12-15,6.0,817.0,BOTANY BAY,Charles Nordhoff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1941.0,1941-12-22,6.0,817.0,BOTANY BAY,Charles Nordhoff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1941.0,1941-12-29,5.0,817.0,BOTANY BAY,Charles Nordhoff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1942.0,1942-01-05,6.0,817.0,BOTANY BAY,Charles Nordhoff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1942.0,1942-01-12,6.0,817.0,BOTANY BAY,Charles Nordhoff and James Norman Hall,True,Charles Nordhoff and James Norman Hall,Charles Nordhoff,James Norman Hall,right_only
+,,,,,,1950.0,1950-06-25,14.0,2200.0,HIGH VALLEY,Charmian Clift and George Johnston,True,Charmian Clift and George Johnston,Charmian Clift,George Johnston,right_only
+,,,,,,1950.0,1950-07-02,16.0,2200.0,HIGH VALLEY,Charmian Clift and George Johnston,True,Charmian Clift and George Johnston,Charmian Clift,George Johnston,right_only
+,,,,,,1950.0,1950-07-09,16.0,2200.0,HIGH VALLEY,Charmian Clift and George Johnston,True,Charmian Clift and George Johnston,Charmian Clift,George Johnston,right_only
+,,,,,,1950.0,1950-07-16,16.0,2200.0,HIGH VALLEY,Charmian Clift and George Johnston,True,Charmian Clift and George Johnston,Charmian Clift,George Johnston,right_only
+,,,,,,1950.0,1950-07-23,16.0,2200.0,HIGH VALLEY,Charmian Clift and George Johnston,True,Charmian Clift and George Johnston,Charmian Clift,George Johnston,right_only
+,,,,,,1950.0,1950-07-30,16.0,2200.0,HIGH VALLEY,Charmian Clift and George Johnston,True,Charmian Clift and George Johnston,Charmian Clift,George Johnston,right_only
+,,,,,,1950.0,1950-08-06,15.0,2200.0,HIGH VALLEY,Charmian Clift and George Johnston,True,Charmian Clift and George Johnston,Charmian Clift,George Johnston,right_only
+,,,,,,1950.0,1950-08-13,16.0,2200.0,HIGH VALLEY,Charmian Clift and George Johnston,True,Charmian Clift and George Johnston,Charmian Clift,George Johnston,right_only
+,,,,,,1950.0,1950-08-20,14.0,2200.0,HIGH VALLEY,Charmian Clift and George Johnston,True,Charmian Clift and George Johnston,Charmian Clift,George Johnston,right_only
+,,,,,,1950.0,1950-09-03,12.0,2200.0,HIGH VALLEY,Charmian Clift and George Johnston,True,Charmian Clift and George Johnston,Charmian Clift,George Johnston,right_only
+,,,,,,1998.0,1998-12-20,14.0,5881.0,THE NIGHT BEFORE CHRISTMAS,Clement Moore. Illustrated by Jan Brett,True,Clement Moore,Clement Moore,,right_only
+,,,,,,1998.0,1998-12-27,15.0,5881.0,THE NIGHT BEFORE CHRISTMAS,Clement Moore. Illustrated by Jan Brett,True,Clement Moore,Clement Moore,,right_only
+,,,,,,1936.0,1936-10-12,6.0,1185.0,CRIMEFILE NO. 1,Dennis Wheatley and J. H. Links,True,Dennis Wheatley and J. H. Links,Dennis Wheatley,J. H. Links,right_only
+,,,,,,1936.0,1936-10-19,6.0,1185.0,CRIMEFILE NO. 1,Dennis Wheatley and J. H. Links,True,Dennis Wheatley and J. H. Links,Dennis Wheatley,J. H. Links,right_only
+,,,,,,1936.0,1936-10-26,7.0,1185.0,CRIMEFILE NO. 1,Dennis Wheatley and J. H. Links,True,Dennis Wheatley and J. H. Links,Dennis Wheatley,J. H. Links,right_only
+,,,,,,1936.0,1936-11-09,5.0,1801.0,FILE ON BOLITHO BLANE,Dennis Wheatley and J. H. Links,True,Dennis Wheatley and J. H. Links,Dennis Wheatley,J. H. Links,right_only
+,,,,,,1936.0,1936-11-23,5.0,1185.0,CRIMEFILE NO. 1,Dennis Wheatley and J. H. Links,True,Dennis Wheatley and J. H. Links,Dennis Wheatley,J. H. Links,right_only
+,,,,,,1936.0,1936-11-30,6.0,1185.0,CRIMEFILE NO. 1,Dennis Wheatley and J. H. Links,True,Dennis Wheatley and J. H. Links,Dennis Wheatley,J. H. Links,right_only
+,,,,,,1993.0,1993-02-21,15.0,1469.0,DISNEY'S ALADDIN,adapted by Don Ferguson,True,adapted by Don Ferguson,Don Ferguson,,right_only
+,,,,,,1993.0,1993-03-07,13.0,1469.0,DISNEY'S ALADDIN,adapted by Don Ferguson,True,adapted by Don Ferguson,Don Ferguson,,right_only
+,,,,,,1993.0,1993-03-21,15.0,1469.0,DISNEY'S ALADDIN,adapted by Don Ferguson,True,adapted by Don Ferguson,Don Ferguson,,right_only
+,,,,,,1993.0,1993-03-28,13.0,1469.0,DISNEY'S ALADDIN,adapted by Don Ferguson,True,adapted by Don Ferguson,Don Ferguson,,right_only
+,,,,,,1993.0,1993-04-11,15.0,1469.0,DISNEY'S ALADDIN,adapted by Don Ferguson,True,adapted by Don Ferguson,Don Ferguson,,right_only
+,,,,,,1993.0,1993-04-18,14.0,1469.0,DISNEY'S ALADDIN,adapted by Don Ferguson,True,adapted by Don Ferguson,Don Ferguson,,right_only
+,,,,,,1993.0,1993-04-25,14.0,1469.0,DISNEY'S ALADDIN,adapted by Don Ferguson,True,adapted by Don Ferguson,Don Ferguson,,right_only
+,,,,,,1994.0,1994-08-07,8.0,1472.0,DISNEY'S THE LION KING,adapted by Don Ferguson,True,adapted by Don Ferguson,Don Ferguson,,right_only
+,,,,,,1994.0,1994-08-14,9.0,1472.0,DISNEY'S THE LION KING,adapted by Don Ferguson,True,adapted by Don Ferguson,Don Ferguson,,right_only
+,,,,,,1994.0,1994-08-21,8.0,1472.0,DISNEY'S THE LION KING,adapted by Don Ferguson,True,adapted by Don Ferguson,Don Ferguson,,right_only
+,,,,,,1994.0,1994-08-28,7.0,1472.0,DISNEY'S THE LION KING,adapted by Don Ferguson,True,adapted by Don Ferguson,Don Ferguson,,right_only
+,,,,,,1994.0,1994-09-04,8.0,1472.0,DISNEY'S THE LION KING,adapted by Don Ferguson,True,adapted by Don Ferguson,Don Ferguson,,right_only
+,,,,,,1994.0,1994-09-11,9.0,1472.0,DISNEY'S THE LION KING,adapted by Don Ferguson,True,adapted by Don Ferguson,Don Ferguson,,right_only
+,,,,,,1994.0,1994-09-18,10.0,1472.0,DISNEY'S THE LION KING,adapted by Don Ferguson,True,adapted by Don Ferguson,Don Ferguson,,right_only
+,,,,,,1994.0,1994-09-25,10.0,1472.0,DISNEY'S THE LION KING,adapted by Don Ferguson,True,adapted by Don Ferguson,Don Ferguson,,right_only
+,,,,,,1994.0,1994-10-02,10.0,1472.0,DISNEY'S THE LION KING,adapted by Don Ferguson,True,adapted by Don Ferguson,Don Ferguson,,right_only
+,,,,,,1994.0,1994-10-09,14.0,1472.0,DISNEY'S THE LION KING,adapted by Don Ferguson,True,adapted by Don Ferguson,Don Ferguson,,right_only
+,,,,,,1994.0,1994-10-16,14.0,1472.0,DISNEY'S THE LION KING,adapted by Don Ferguson,True,adapted by Don Ferguson,Don Ferguson,,right_only
+,,,,,,1957.0,1957-08-04,12.0,6012.0,THE PINK HOTEL,Dorothy Erskine and Patrick Dennis,True,Dorothy Erskine and Patrick Dennis,Dorothy Erskine,Patrick Dennis,right_only
+,,,,,,1957.0,1957-08-11,10.0,6012.0,THE PINK HOTEL,Dorothy Erskine and Patrick Dennis,True,Dorothy Erskine and Patrick Dennis,Dorothy Erskine,Patrick Dennis,right_only
+,,,,,,1957.0,1957-08-18,7.0,6012.0,THE PINK HOTEL,Dorothy Erskine and Patrick Dennis,True,Dorothy Erskine and Patrick Dennis,Dorothy Erskine,Patrick Dennis,right_only
+,,,,,,1957.0,1957-08-25,6.0,6012.0,THE PINK HOTEL,Dorothy Erskine and Patrick Dennis,True,Dorothy Erskine and Patrick Dennis,Dorothy Erskine,Patrick Dennis,right_only
+,,,,,,1957.0,1957-09-01,7.0,6012.0,THE PINK HOTEL,Dorothy Erskine and Patrick Dennis,True,Dorothy Erskine and Patrick Dennis,Dorothy Erskine,Patrick Dennis,right_only
+,,,,,,1957.0,1957-09-08,8.0,6012.0,THE PINK HOTEL,Dorothy Erskine and Patrick Dennis,True,Dorothy Erskine and Patrick Dennis,Dorothy Erskine,Patrick Dennis,right_only
+,,,,,,1957.0,1957-09-15,9.0,6012.0,THE PINK HOTEL,Dorothy Erskine and Patrick Dennis,True,Dorothy Erskine and Patrick Dennis,Dorothy Erskine,Patrick Dennis,right_only
+,,,,,,1957.0,1957-09-22,8.0,6012.0,THE PINK HOTEL,Dorothy Erskine and Patrick Dennis,True,Dorothy Erskine and Patrick Dennis,Dorothy Erskine,Patrick Dennis,right_only
+,,,,,,1957.0,1957-09-29,8.0,6012.0,THE PINK HOTEL,Dorothy Erskine and Patrick Dennis,True,Dorothy Erskine and Patrick Dennis,Dorothy Erskine,Patrick Dennis,right_only
+,,,,,,1957.0,1957-10-06,8.0,6012.0,THE PINK HOTEL,Dorothy Erskine and Patrick Dennis,True,Dorothy Erskine and Patrick Dennis,Dorothy Erskine,Patrick Dennis,right_only
+,,,,,,1957.0,1957-10-13,10.0,6012.0,THE PINK HOTEL,Dorothy Erskine and Patrick Dennis,True,Dorothy Erskine and Patrick Dennis,Dorothy Erskine,Patrick Dennis,right_only
+,,,,,,1957.0,1957-10-20,13.0,6012.0,THE PINK HOTEL,Dorothy Erskine and Patrick Dennis,True,Dorothy Erskine and Patrick Dennis,Dorothy Erskine,Patrick Dennis,right_only
+,,,,,,1957.0,1957-10-27,16.0,6012.0,THE PINK HOTEL,Dorothy Erskine and Patrick Dennis,True,Dorothy Erskine and Patrick Dennis,Dorothy Erskine,Patrick Dennis,right_only
+,,,,,,2002.0,2002-03-24,9.0,5854.0,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,True,Emma McLaughlin and Nicola Kraus,Emma McLaughlin,Nicola Kraus,right_only
+,,,,,,2002.0,2002-03-31,6.0,5854.0,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,True,Emma McLaughlin and Nicola Kraus,Emma McLaughlin,Nicola Kraus,right_only
+,,,,,,2002.0,2002-04-07,4.0,5854.0,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,True,Emma McLaughlin and Nicola Kraus,Emma McLaughlin,Nicola Kraus,right_only
+,,,,,,2002.0,2002-04-14,4.0,5854.0,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,True,Emma McLaughlin and Nicola Kraus,Emma McLaughlin,Nicola Kraus,right_only
+,,,,,,2002.0,2002-04-21,3.0,5854.0,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,True,Emma McLaughlin and Nicola Kraus,Emma McLaughlin,Nicola Kraus,right_only
+,,,,,,2002.0,2002-04-28,1.0,5854.0,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,True,Emma McLaughlin and Nicola Kraus,Emma McLaughlin,Nicola Kraus,right_only
+,,,,,,2002.0,2002-05-05,2.0,5854.0,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,True,Emma McLaughlin and Nicola Kraus,Emma McLaughlin,Nicola Kraus,right_only
+,,,,,,2002.0,2002-05-12,3.0,5854.0,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,True,Emma McLaughlin and Nicola Kraus,Emma McLaughlin,Nicola Kraus,right_only
+,,,,,,2002.0,2002-05-19,4.0,5854.0,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,True,Emma McLaughlin and Nicola Kraus,Emma McLaughlin,Nicola Kraus,right_only
+,,,,,,2002.0,2002-05-26,4.0,5854.0,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,True,Emma McLaughlin and Nicola Kraus,Emma McLaughlin,Nicola Kraus,right_only
+,,,,,,2002.0,2002-06-02,5.0,5854.0,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,True,Emma McLaughlin and Nicola Kraus,Emma McLaughlin,Nicola Kraus,right_only
+,,,,,,2002.0,2002-06-09,3.0,5854.0,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,True,Emma McLaughlin and Nicola Kraus,Emma McLaughlin,Nicola Kraus,right_only
+,,,,,,2002.0,2002-06-16,4.0,5854.0,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,True,Emma McLaughlin and Nicola Kraus,Emma McLaughlin,Nicola Kraus,right_only
+,,,,,,2002.0,2002-06-23,4.0,5854.0,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,True,Emma McLaughlin and Nicola Kraus,Emma McLaughlin,Nicola Kraus,right_only
+,,,,,,2002.0,2002-06-30,6.0,5854.0,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,True,Emma McLaughlin and Nicola Kraus,Emma McLaughlin,Nicola Kraus,right_only
+,,,,,,2002.0,2002-07-07,6.0,5854.0,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,True,Emma McLaughlin and Nicola Kraus,Emma McLaughlin,Nicola Kraus,right_only
+,,,,,,2002.0,2002-07-14,7.0,5854.0,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,True,Emma McLaughlin and Nicola Kraus,Emma McLaughlin,Nicola Kraus,right_only
+,,,,,,2002.0,2002-07-21,6.0,5854.0,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,True,Emma McLaughlin and Nicola Kraus,Emma McLaughlin,Nicola Kraus,right_only
+,,,,,,2002.0,2002-07-28,5.0,5854.0,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,True,Emma McLaughlin and Nicola Kraus,Emma McLaughlin,Nicola Kraus,right_only
+,,,,,,2002.0,2002-08-04,5.0,5854.0,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,True,Emma McLaughlin and Nicola Kraus,Emma McLaughlin,Nicola Kraus,right_only
+,,,,,,2002.0,2002-08-18,6.0,5854.0,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,True,Emma McLaughlin and Nicola Kraus,Emma McLaughlin,Nicola Kraus,right_only
+,,,,,,2002.0,2002-08-25,7.0,5854.0,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,True,Emma McLaughlin and Nicola Kraus,Emma McLaughlin,Nicola Kraus,right_only
+,,,,,,2002.0,2002-09-01,6.0,5854.0,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,True,Emma McLaughlin and Nicola Kraus,Emma McLaughlin,Nicola Kraus,right_only
+,,,,,,2002.0,2002-09-08,6.0,5854.0,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,True,Emma McLaughlin and Nicola Kraus,Emma McLaughlin,Nicola Kraus,right_only
+,,,,,,2002.0,2002-09-15,9.0,5854.0,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,True,Emma McLaughlin and Nicola Kraus,Emma McLaughlin,Nicola Kraus,right_only
+,,,,,,2002.0,2002-09-22,6.0,5854.0,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,True,Emma McLaughlin and Nicola Kraus,Emma McLaughlin,Nicola Kraus,right_only
+,,,,,,2002.0,2002-09-29,7.0,5854.0,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,True,Emma McLaughlin and Nicola Kraus,Emma McLaughlin,Nicola Kraus,right_only
+,,,,,,2002.0,2002-10-06,11.0,5854.0,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,True,Emma McLaughlin and Nicola Kraus,Emma McLaughlin,Nicola Kraus,right_only
+,,,,,,2002.0,2002-10-13,11.0,5854.0,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,True,Emma McLaughlin and Nicola Kraus,Emma McLaughlin,Nicola Kraus,right_only
+,,,,,,2002.0,2002-10-20,16.0,5854.0,THE NANNY DIARIES,Emma McLaughlin and Nicola Kraus,True,Emma McLaughlin and Nicola Kraus,Emma McLaughlin,Nicola Kraus,right_only
+,,,,,,1979.0,1979-05-06,15.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1979.0,1979-05-20,10.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1979.0,1979-05-27,4.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1979.0,1979-06-03,4.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1979.0,1979-06-10,3.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1979.0,1979-06-17,3.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1979.0,1979-06-24,3.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1979.0,1979-07-01,4.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1979.0,1979-07-08,5.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1979.0,1979-07-15,3.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1979.0,1979-07-22,4.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1979.0,1979-07-29,5.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1979.0,1979-08-05,4.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1979.0,1979-08-12,4.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1979.0,1979-08-19,4.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1979.0,1979-08-26,5.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1979.0,1979-09-02,4.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1979.0,1979-09-09,6.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1979.0,1979-09-16,8.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1979.0,1979-09-23,7.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1979.0,1979-09-30,7.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1979.0,1979-10-07,12.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1979.0,1979-10-14,9.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1979.0,1979-10-21,9.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1979.0,1979-10-28,11.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1979.0,1979-11-04,11.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1979.0,1979-11-11,15.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1979.0,1979-11-18,13.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1979.0,1979-12-02,14.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1979.0,1979-12-23,14.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1979.0,1979-12-30,15.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1980.0,1980-01-06,12.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1980.0,1980-01-13,12.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1980.0,1980-01-20,12.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1980.0,1980-02-03,14.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1980.0,1980-02-10,14.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1980.0,1980-02-17,10.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1980.0,1980-02-24,13.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1980.0,1980-03-02,13.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1980.0,1980-03-09,14.0,6507.0,THE THIRD WORLD WAR: August 1985,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,True,General Sir John Hackett and Other Top-ranking NATO Generals and Advisors,General Sir John Hackett,Other Top-ranking NATO Generals,right_only
+,,,,,,1934.0,1934-01-29,8.0,4748.0,THE CADAVER,Gideon Wyck. Edited by Alexander Laing,True,Gideon Wyck,Gideon Wyck,,right_only
+,,,,,,2008.0,2008-11-30,1.0,4835.0,THE CHRISTMAS SWEATER,Glenn Beck with Kevin Balfe and Jason Wright,True,Glenn Beck with Kevin Balfe and Jason Wright,Glenn Beck with Kevin Balfe,Jason Wright,right_only
+,,,,,,2008.0,2008-12-07,2.0,4835.0,THE CHRISTMAS SWEATER,Glenn Beck with Kevin Balfe and Jason Wright,True,Glenn Beck with Kevin Balfe and Jason Wright,Glenn Beck with Kevin Balfe,Jason Wright,right_only
+,,,,,,2008.0,2008-12-14,2.0,4835.0,THE CHRISTMAS SWEATER,Glenn Beck with Kevin Balfe and Jason Wright,True,Glenn Beck with Kevin Balfe and Jason Wright,Glenn Beck with Kevin Balfe,Jason Wright,right_only
+,,,,,,2008.0,2008-12-21,2.0,4835.0,THE CHRISTMAS SWEATER,Glenn Beck with Kevin Balfe and Jason Wright,True,Glenn Beck with Kevin Balfe and Jason Wright,Glenn Beck with Kevin Balfe,Jason Wright,right_only
+,,,,,,2008.0,2008-12-28,2.0,4835.0,THE CHRISTMAS SWEATER,Glenn Beck with Kevin Balfe and Jason Wright,True,Glenn Beck with Kevin Balfe and Jason Wright,Glenn Beck with Kevin Balfe,Jason Wright,right_only
+,,,,,,2009.0,2009-01-04,1.0,4835.0,THE CHRISTMAS SWEATER,Glenn Beck with Kevin Balfe and Jason Wright,True,Glenn Beck with Kevin Balfe and Jason Wright,Glenn Beck with Kevin Balfe,Jason Wright,right_only
+,,,,,,2009.0,2009-01-11,3.0,4835.0,THE CHRISTMAS SWEATER,Glenn Beck with Kevin Balfe and Jason Wright,True,Glenn Beck with Kevin Balfe and Jason Wright,Glenn Beck with Kevin Balfe,Jason Wright,right_only
+,,,,,,2009.0,2009-01-18,7.0,4835.0,THE CHRISTMAS SWEATER,Glenn Beck with Kevin Balfe and Jason Wright,True,Glenn Beck with Kevin Balfe and Jason Wright,Glenn Beck with Kevin Balfe,Jason Wright,right_only
+,,,,,,2009.0,2009-01-25,14.0,4835.0,THE CHRISTMAS SWEATER,Glenn Beck with Kevin Balfe and Jason Wright,True,Glenn Beck with Kevin Balfe and Jason Wright,Glenn Beck with Kevin Balfe,Jason Wright,right_only
+,,,,,,2009.0,2009-12-20,16.0,4835.0,THE CHRISTMAS SWEATER,Glenn Beck with Kevin Balfe and Jason Wright,True,Glenn Beck with Kevin Balfe and Jason Wright,Glenn Beck with Kevin Balfe,Jason Wright,right_only
+,,,,,,2009.0,2009-12-27,8.0,4835.0,THE CHRISTMAS SWEATER,Glenn Beck with Kevin Balfe and Jason Wright,True,Glenn Beck with Kevin Balfe and Jason Wright,Glenn Beck with Kevin Balfe,Jason Wright,right_only
+,,,,,,2010.0,2010-01-03,9.0,4835.0,THE CHRISTMAS SWEATER,Glenn Beck with Kevin Balfe and Jason Wright,True,Glenn Beck with Kevin Balfe and Jason Wright,Glenn Beck with Kevin Balfe,Jason Wright,right_only
+,,,,,,2010.0,2010-01-10,9.0,4835.0,THE CHRISTMAS SWEATER,Glenn Beck with Kevin Balfe and Jason Wright,True,Glenn Beck with Kevin Balfe and Jason Wright,Glenn Beck with Kevin Balfe,Jason Wright,right_only
+,,,,,,2018.0,2018-01-28,2.0,6700.0,THE WIFE BETWEEN US,Greer Hendricks and Sarah Pekkanen,True,Greer Hendricks and Sarah Pekkanen,Greer Hendricks,Sarah Pekkanen,right_only
+,,,,,,2018.0,2018-02-04,9.0,6700.0,THE WIFE BETWEEN US,Greer Hendricks and Sarah Pekkanen,True,Greer Hendricks and Sarah Pekkanen,Greer Hendricks,Sarah Pekkanen,right_only
+,,,,,,2018.0,2018-02-11,8.0,6700.0,THE WIFE BETWEEN US,Greer Hendricks and Sarah Pekkanen,True,Greer Hendricks and Sarah Pekkanen,Greer Hendricks,Sarah Pekkanen,right_only
+,,,,,,2018.0,2018-02-18,8.0,6700.0,THE WIFE BETWEEN US,Greer Hendricks and Sarah Pekkanen,True,Greer Hendricks and Sarah Pekkanen,Greer Hendricks,Sarah Pekkanen,right_only
+,,,,,,2018.0,2018-02-25,12.0,6700.0,THE WIFE BETWEEN US,Greer Hendricks and Sarah Pekkanen,True,Greer Hendricks and Sarah Pekkanen,Greer Hendricks,Sarah Pekkanen,right_only
+,,,,,,2018.0,2018-03-04,12.0,6700.0,THE WIFE BETWEEN US,Greer Hendricks and Sarah Pekkanen,True,Greer Hendricks and Sarah Pekkanen,Greer Hendricks,Sarah Pekkanen,right_only
+,,,,,,2018.0,2018-03-11,14.0,6700.0,THE WIFE BETWEEN US,Greer Hendricks and Sarah Pekkanen,True,Greer Hendricks and Sarah Pekkanen,Greer Hendricks,Sarah Pekkanen,right_only
+,,,,,,2018.0,2018-03-18,11.0,6700.0,THE WIFE BETWEEN US,Greer Hendricks and Sarah Pekkanen,True,Greer Hendricks and Sarah Pekkanen,Greer Hendricks,Sarah Pekkanen,right_only
+,,,,,,2018.0,2018-03-25,14.0,6700.0,THE WIFE BETWEEN US,Greer Hendricks and Sarah Pekkanen,True,Greer Hendricks and Sarah Pekkanen,Greer Hendricks,Sarah Pekkanen,right_only
+,,,,,,2018.0,2018-04-01,15.0,6700.0,THE WIFE BETWEEN US,Greer Hendricks and Sarah Pekkanen,True,Greer Hendricks and Sarah Pekkanen,Greer Hendricks,Sarah Pekkanen,right_only
+,,,,,,2019.0,2019-01-27,1.0,431.0,AN ANONYMOUS GIRL,Greer Hendricks and Sarah Pekkanen,True,Greer Hendricks and Sarah Pekkanen,Greer Hendricks,Sarah Pekkanen,right_only
+,,,,,,2019.0,2019-02-03,5.0,431.0,AN ANONYMOUS GIRL,Greer Hendricks and Sarah Pekkanen,True,Greer Hendricks and Sarah Pekkanen,Greer Hendricks,Sarah Pekkanen,right_only
+,,,,,,2019.0,2019-02-10,3.0,431.0,AN ANONYMOUS GIRL,Greer Hendricks and Sarah Pekkanen,True,Greer Hendricks and Sarah Pekkanen,Greer Hendricks,Sarah Pekkanen,right_only
+,,,,,,2019.0,2019-02-17,2.0,431.0,AN ANONYMOUS GIRL,Greer Hendricks and Sarah Pekkanen,True,Greer Hendricks and Sarah Pekkanen,Greer Hendricks,Sarah Pekkanen,right_only
+,,,,,,2019.0,2019-02-24,6.0,431.0,AN ANONYMOUS GIRL,Greer Hendricks and Sarah Pekkanen,True,Greer Hendricks and Sarah Pekkanen,Greer Hendricks,Sarah Pekkanen,right_only
+,,,,,,2019.0,2019-03-03,4.0,431.0,AN ANONYMOUS GIRL,Greer Hendricks and Sarah Pekkanen,True,Greer Hendricks and Sarah Pekkanen,Greer Hendricks,Sarah Pekkanen,right_only
+,,,,,,2019.0,2019-03-10,6.0,431.0,AN ANONYMOUS GIRL,Greer Hendricks and Sarah Pekkanen,True,Greer Hendricks and Sarah Pekkanen,Greer Hendricks,Sarah Pekkanen,right_only
+,,,,,,2019.0,2019-03-17,4.0,431.0,AN ANONYMOUS GIRL,Greer Hendricks and Sarah Pekkanen,True,Greer Hendricks and Sarah Pekkanen,Greer Hendricks,Sarah Pekkanen,right_only
+,,,,,,2019.0,2019-03-24,11.0,431.0,AN ANONYMOUS GIRL,Greer Hendricks and Sarah Pekkanen,True,Greer Hendricks and Sarah Pekkanen,Greer Hendricks,Sarah Pekkanen,right_only
+,,,,,,2019.0,2019-03-31,14.0,431.0,AN ANONYMOUS GIRL,Greer Hendricks and Sarah Pekkanen,True,Greer Hendricks and Sarah Pekkanen,Greer Hendricks,Sarah Pekkanen,right_only
+,,,,,,2019.0,2019-04-07,12.0,431.0,AN ANONYMOUS GIRL,Greer Hendricks and Sarah Pekkanen,True,Greer Hendricks and Sarah Pekkanen,Greer Hendricks,Sarah Pekkanen,right_only
+,,,,,,2020.0,2020-03-22,7.0,7390.0,YOU ARE NOT ALONE,Greer Hendricks and Sarah Pekkanen,True,Greer Hendricks and Sarah Pekkanen,Greer Hendricks,Sarah Pekkanen,right_only
+,,,,,,2009.0,2009-06-21,9.0,6413.0,THE STRAIN,Guillermo del Toro and Chuck Hogan,True,Guillermo del Toro and Chuck Hogan,Guillermo del Toro,Chuck Hogan,right_only
+,,,,,,2010.0,2010-10-10,8.0,5097.0,THE FALL,Guillermo del Toro and Chuck Hogan,True,Guillermo del Toro and Chuck Hogan,Guillermo del Toro,Chuck Hogan,right_only
+,,,,,,2011.0,2011-11-13,7.0,5884.0,THE NIGHT ETERNAL,Guillermo del Toro and Chuck Hogan,True,Guillermo del Toro and Chuck Hogan,Guillermo del Toro,Chuck Hogan,right_only
+,,,,,,2018.0,2018-03-25,11.0,6276.0,THE SHAPE OF WATER,Guillermo del Toro and Daniel Kraus,True,Guillermo del Toro and Daniel Kraus,Guillermo del Toro,Daniel Kraus,right_only
+,,,,,,2002.0,2002-04-28,14.0,4671.0,THE BONDWOMAN'S NARRATIVE,Hannah Crafts. Edited by Henry Louis Gates Jr,True,Hannah Crafts,Hannah Crafts,,right_only
+,,,,,,1946.0,1946-12-22,16.0,1479.0,DO I WAKE OR SLEEP,? by Isabel Bolton,True,? by Isabel Bolton,Isabel Bolton,,right_only
+,,,,,,2007.0,2007-05-06,1.0,4821.0,THE CHILDREN OF HÚRIN,J. R. R. Tolkien. Edited by Christopher Tolkien. Illustrated by Alan Lee,True,J. R. R. Tolkien,J. R. R. Tolkien,,right_only
+,,,,,,2007.0,2007-05-13,2.0,4821.0,THE CHILDREN OF HÚRIN,J. R. R. Tolkien. Edited by Christopher Tolkien. Illustrated by Alan Lee,True,J. R. R. Tolkien,J. R. R. Tolkien,,right_only
+,,,,,,2007.0,2007-05-20,3.0,4821.0,THE CHILDREN OF HÚRIN,J. R. R. Tolkien. Edited by Christopher Tolkien. Illustrated by Alan Lee,True,J. R. R. Tolkien,J. R. R. Tolkien,,right_only
+,,,,,,2007.0,2007-05-27,4.0,4821.0,THE CHILDREN OF HÚRIN,J. R. R. Tolkien. Edited by Christopher Tolkien. Illustrated by Alan Lee,True,J. R. R. Tolkien,J. R. R. Tolkien,,right_only
+,,,,,,2007.0,2007-06-03,6.0,4821.0,THE CHILDREN OF HÚRIN,J. R. R. Tolkien. Edited by Christopher Tolkien. Illustrated by Alan Lee,True,J. R. R. Tolkien,J. R. R. Tolkien,,right_only
+,,,,,,2007.0,2007-06-10,6.0,4821.0,THE CHILDREN OF HÚRIN,J. R. R. Tolkien. Edited by Christopher Tolkien. Illustrated by Alan Lee,True,J. R. R. Tolkien,J. R. R. Tolkien,,right_only
+,,,,,,2007.0,2007-06-17,7.0,4821.0,THE CHILDREN OF HÚRIN,J. R. R. Tolkien. Edited by Christopher Tolkien. Illustrated by Alan Lee,True,J. R. R. Tolkien,J. R. R. Tolkien,,right_only
+,,,,,,2007.0,2007-06-24,10.0,4821.0,THE CHILDREN OF HÚRIN,J. R. R. Tolkien. Edited by Christopher Tolkien. Illustrated by Alan Lee,True,J. R. R. Tolkien,J. R. R. Tolkien,,right_only
+,,,,,,2007.0,2007-07-01,4.0,4821.0,THE CHILDREN OF HÚRIN,J. R. R. Tolkien. Edited by Christopher Tolkien. Illustrated by Alan Lee,True,J. R. R. Tolkien,J. R. R. Tolkien,,right_only
+,,,,,,2007.0,2007-07-08,13.0,4821.0,THE CHILDREN OF HÚRIN,J. R. R. Tolkien. Edited by Christopher Tolkien. Illustrated by Alan Lee,True,J. R. R. Tolkien,J. R. R. Tolkien,,right_only
+,,,,,,2007.0,2007-07-15,14.0,4821.0,THE CHILDREN OF HÚRIN,J. R. R. Tolkien. Edited by Christopher Tolkien. Illustrated by Alan Lee,True,J. R. R. Tolkien,J. R. R. Tolkien,,right_only
+,,,,,,2007.0,2007-07-22,14.0,4821.0,THE CHILDREN OF HÚRIN,J. R. R. Tolkien. Edited by Christopher Tolkien. Illustrated by Alan Lee,True,J. R. R. Tolkien,J. R. R. Tolkien,,right_only
+,,,,,,2007.0,2007-07-29,16.0,4821.0,THE CHILDREN OF HÚRIN,J. R. R. Tolkien. Edited by Christopher Tolkien. Illustrated by Alan Lee,True,J. R. R. Tolkien,J. R. R. Tolkien,,right_only
+,,,,,,2009.0,2009-05-24,10.0,5644.0,THE LEGEND OF SIGURD AND GUDRUN,J. R. R. Tolkien. Edited by Christopher Tolkien,True,J. R. R. Tolkien,J. R. R. Tolkien,,right_only
+,,,,,,2013.0,2013-06-09,10.0,5099.0,THE FALL OF ARTHUR,J. R. R. Tolkien. Edited by Christopher Tolkien,True,J. R. R. Tolkien,J. R. R. Tolkien,,right_only
+,,,,,,1978.0,1978-01-01,14.0,2551.0,KG 200,J.D. Gilman and John Clive,True,J.D. Gilman and John Clive,J.D. Gilman,John Clive,right_only
+,,,,,,1978.0,1978-01-08,15.0,2551.0,KG 200,J.D. Gilman and John Clive,True,J.D. Gilman and John Clive,J.D. Gilman,John Clive,right_only
+,,,,,,1978.0,1978-01-15,15.0,2551.0,KG 200,J.D. Gilman and John Clive,True,J.D. Gilman and John Clive,J.D. Gilman,John Clive,right_only
+,,,,,,1978.0,1978-01-22,15.0,2551.0,KG 200,J.D. Gilman and John Clive,True,J.D. Gilman and John Clive,J.D. Gilman,John Clive,right_only
+,,,,,,1978.0,1978-01-29,14.0,2551.0,KG 200,J.D. Gilman and John Clive,True,J.D. Gilman and John Clive,J.D. Gilman,John Clive,right_only
+,,,,,,1978.0,1978-02-05,15.0,2551.0,KG 200,J.D. Gilman and John Clive,True,J.D. Gilman and John Clive,J.D. Gilman,John Clive,right_only
+,,,,,,1978.0,1978-02-12,15.0,2551.0,KG 200,J.D. Gilman and John Clive,True,J.D. Gilman and John Clive,J.D. Gilman,John Clive,right_only
+,,,,,,1978.0,1978-02-19,13.0,2551.0,KG 200,J.D. Gilman and John Clive,True,J.D. Gilman and John Clive,J.D. Gilman,John Clive,right_only
+,,,,,,1998.0,1998-11-08,13.0,6901.0,TODAY I FEEL SILLY & OTHER MOODS THAT MAKE MY DAY,Jamie Lee Curtis. Illustrated by Laura Cornell,True,Jamie Lee Curtis,Jamie Lee Curtis,,right_only
+,,,,,,1998.0,1998-11-15,15.0,6901.0,TODAY I FEEL SILLY & OTHER MOODS THAT MAKE MY DAY,Jamie Lee Curtis. Illustrated by Laura Cornell,True,Jamie Lee Curtis,Jamie Lee Curtis,,right_only
+,,,,,,1998.0,1998-11-22,15.0,6901.0,TODAY I FEEL SILLY & OTHER MOODS THAT MAKE MY DAY,Jamie Lee Curtis. Illustrated by Laura Cornell,True,Jamie Lee Curtis,Jamie Lee Curtis,,right_only
+,,,,,,1998.0,1998-11-29,14.0,6901.0,TODAY I FEEL SILLY & OTHER MOODS THAT MAKE MY DAY,Jamie Lee Curtis. Illustrated by Laura Cornell,True,Jamie Lee Curtis,Jamie Lee Curtis,,right_only
+,,,,,,1998.0,1998-12-06,12.0,6901.0,TODAY I FEEL SILLY & OTHER MOODS THAT MAKE MY DAY,Jamie Lee Curtis. Illustrated by Laura Cornell,True,Jamie Lee Curtis,Jamie Lee Curtis,,right_only
+,,,,,,1998.0,1998-12-13,12.0,6901.0,TODAY I FEEL SILLY & OTHER MOODS THAT MAKE MY DAY,Jamie Lee Curtis. Illustrated by Laura Cornell,True,Jamie Lee Curtis,Jamie Lee Curtis,,right_only
+,,,,,,1998.0,1998-12-20,10.0,6901.0,TODAY I FEEL SILLY & OTHER MOODS THAT MAKE MY DAY,Jamie Lee Curtis. Illustrated by Laura Cornell,True,Jamie Lee Curtis,Jamie Lee Curtis,,right_only
+,,,,,,1998.0,1998-12-27,13.0,6901.0,TODAY I FEEL SILLY & OTHER MOODS THAT MAKE MY DAY,Jamie Lee Curtis. Illustrated by Laura Cornell,True,Jamie Lee Curtis,Jamie Lee Curtis,,right_only
+,,,,,,1999.0,1999-01-03,14.0,6901.0,TODAY I FEEL SILLY & OTHER MOODS THAT MAKE MY DAY,Jamie Lee Curtis. Illustrated by Laura Cornell,True,Jamie Lee Curtis,Jamie Lee Curtis,,right_only
+,,,,,,1991.0,1991-12-22,5.0,5511.0,THE JOLLY CHRISTMAS POSTMAN,Janet and Allan Ahlberg,True,Janet and Allan Ahlberg,Janet Ahlberg,Allan Ahlberg,right_only
+,,,,,,1991.0,1991-12-29,6.0,5511.0,THE JOLLY CHRISTMAS POSTMAN,Janet and Allan Ahlberg,True,Janet and Allan Ahlberg,Janet Ahlberg,Allan Ahlberg,right_only
+,,,,,,1992.0,1992-01-05,8.0,5511.0,THE JOLLY CHRISTMAS POSTMAN,Janet and Allan Ahlberg,True,Janet and Allan Ahlberg,Janet Ahlberg,Allan Ahlberg,right_only
+,,,,,,1992.0,1992-01-12,9.0,5511.0,THE JOLLY CHRISTMAS POSTMAN,Janet and Allan Ahlberg,True,Janet and Allan Ahlberg,Janet Ahlberg,Allan Ahlberg,right_only
+,,,,,,1992.0,1992-01-19,10.0,5511.0,THE JOLLY CHRISTMAS POSTMAN,Janet and Allan Ahlberg,True,Janet and Allan Ahlberg,Janet Ahlberg,Allan Ahlberg,right_only
+,,,,,,2012.0,2012-01-22,2.0,2806.0,LOVE IN A NUTSHELL,Janet Evanovich and Dorien Kelly,True,Janet Evanovich and Dorien Kelly,Janet Ahlberg Evanovich,Dorien Kelly,right_only
+,,,,,,2012.0,2012-01-29,12.0,2806.0,LOVE IN A NUTSHELL,Janet Evanovich and Dorien Kelly,True,Janet Evanovich and Dorien Kelly,Janet Ahlberg Evanovich,Dorien Kelly,right_only
+,,,,,,2012.0,2012-02-05,15.0,2806.0,LOVE IN A NUTSHELL,Janet Evanovich and Dorien Kelly,True,Janet Evanovich and Dorien Kelly,Janet Ahlberg Evanovich,Dorien Kelly,right_only
+,,,,,,2013.0,2013-07-07,5.0,5379.0,THE HEIST,Janet Evanovich and Lee Goldberg,True,Janet Evanovich and Lee Goldberg,Janet Ahlberg Evanovich,Lee Goldberg,right_only
+,,,,,,2013.0,2013-07-14,9.0,5379.0,THE HEIST,Janet Evanovich and Lee Goldberg,True,Janet Evanovich and Lee Goldberg,Janet Ahlberg Evanovich,Lee Goldberg,right_only
+,,,,,,2013.0,2013-07-21,14.0,5379.0,THE HEIST,Janet Evanovich and Lee Goldberg,True,Janet Evanovich and Lee Goldberg,Janet Ahlberg Evanovich,Lee Goldberg,right_only
+,,,,,,2014.0,2014-03-16,3.0,4808.0,THE CHASE,Janet Evanovich and Lee Goldberg,True,Janet Evanovich and Lee Goldberg,Janet Ahlberg Evanovich,Lee Goldberg,right_only
+,,,,,,2014.0,2014-03-23,6.0,4808.0,THE CHASE,Janet Evanovich and Lee Goldberg,True,Janet Evanovich and Lee Goldberg,Janet Ahlberg Evanovich,Lee Goldberg,right_only
+,,,,,,2014.0,2014-03-30,10.0,4808.0,THE CHASE,Janet Evanovich and Lee Goldberg,True,Janet Evanovich and Lee Goldberg,Janet Ahlberg Evanovich,Lee Goldberg,right_only
+,,,,,,2014.0,2014-12-07,9.0,5510.0,THE JOB,Janet Evanovich and Lee Goldberg,True,Janet Evanovich and Lee Goldberg,Janet Ahlberg Evanovich,Lee Goldberg,right_only
+,,,,,,2014.0,2014-12-14,16.0,5510.0,THE JOB,Janet Evanovich and Lee Goldberg,True,Janet Evanovich and Lee Goldberg,Janet Ahlberg Evanovich,Lee Goldberg,right_only
+,,,,,,2015.0,2015-07-12,7.0,7282.0,WICKED CHARMS,Janet Evanovich and Phoef Sutton,True,Janet Evanovich and Phoef Sutton,Janet Ahlberg Evanovich,Phoef Sutton,right_only
+,,,,,,2015.0,2015-07-19,11.0,7282.0,WICKED CHARMS,Janet Evanovich and Phoef Sutton,True,Janet Evanovich and Phoef Sutton,Janet Ahlberg Evanovich,Phoef Sutton,right_only
+,,,,,,2015.0,2015-10-04,10.0,6199.0,THE SCAM,Janet Evanovich and Lee Goldberg,True,Janet Evanovich and Lee Goldberg,Janet Ahlberg Evanovich,Lee Goldberg,right_only
+,,,,,,2015.0,2015-10-11,12.0,6199.0,THE SCAM,Janet Evanovich and Lee Goldberg,True,Janet Evanovich and Lee Goldberg,Janet Ahlberg Evanovich,Lee Goldberg,right_only
+,,,,,,2016.0,2016-07-10,8.0,6078.0,THE PURSUIT,Janet Evanovich and Lee Goldberg,True,Janet Evanovich and Lee Goldberg,Janet Ahlberg Evanovich,Lee Goldberg,right_only
+,,,,,,2016.0,2016-07-17,14.0,6078.0,THE PURSUIT,Janet Evanovich and Lee Goldberg,True,Janet Evanovich and Lee Goldberg,Janet Ahlberg Evanovich,Lee Goldberg,right_only
+,,,,,,2016.0,2016-09-04,3.0,1224.0,CURIOUS MINDS,Janet Evanovich and Phoef Sutton,True,Janet Evanovich and Phoef Sutton,Janet Ahlberg Evanovich,Phoef Sutton,right_only
+,,,,,,2016.0,2016-09-11,3.0,1224.0,CURIOUS MINDS,Janet Evanovich and Phoef Sutton,True,Janet Evanovich and Phoef Sutton,Janet Ahlberg Evanovich,Phoef Sutton,right_only
+,,,,,,2016.0,2016-09-18,12.0,1224.0,CURIOUS MINDS,Janet Evanovich and Phoef Sutton,True,Janet Evanovich and Phoef Sutton,Janet Ahlberg Evanovich,Phoef Sutton,right_only
+,,,,,,2019.0,2019-05-26,8.0,4626.0,THE BIG KAHUNA,Janet Evanovich and Peter Evanovich,True,Janet Evanovich and Peter Evanovich,Janet Ahlberg Evanovich,Peter Evanovich,right_only
+,,,,,,2019.0,2019-06-02,14.0,4626.0,THE BIG KAHUNA,Janet Evanovich and Peter Evanovich,True,Janet Evanovich and Peter Evanovich,Janet Ahlberg Evanovich,Peter Evanovich,right_only
+,,,,,,2019.0,2019-06-09,13.0,4626.0,THE BIG KAHUNA,Janet Evanovich and Peter Evanovich,True,Janet Evanovich and Peter Evanovich,Janet Ahlberg Evanovich,Peter Evanovich,right_only
+,,,,,,2020.0,2020-07-26,14.0,2951.0,MEMOIRS AND MISINFORMATION,Jim Carrey and Dana Vachon,True,Jim Carrey and Dana Vachon,Jim Carrey,Dana Vachon,right_only
+,,,,,,1983.0,1983-06-12,1.0,6131.0,THE RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1983.0,1983-06-19,1.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1983.0,1983-06-26,1.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1983.0,1983-07-03,1.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1983.0,1983-07-10,1.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1983.0,1983-07-17,1.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1983.0,1983-07-24,1.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1983.0,1983-07-31,1.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1983.0,1983-08-07,2.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1983.0,1983-08-14,2.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1983.0,1983-08-21,2.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1983.0,1983-08-28,2.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1983.0,1983-09-04,5.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1983.0,1983-09-11,5.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1983.0,1983-09-18,6.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1983.0,1983-09-25,6.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1983.0,1983-10-02,7.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1983.0,1983-10-09,7.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1983.0,1983-10-16,10.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1983.0,1983-10-23,11.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1983.0,1983-10-30,10.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1983.0,1983-11-06,14.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1983.0,1983-11-13,12.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1983.0,1983-11-20,14.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1983.0,1983-11-27,13.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1983.0,1983-12-04,12.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1983.0,1983-12-11,9.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1983.0,1983-12-18,10.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1983.0,1983-12-25,5.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1984.0,1984-01-01,10.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1984.0,1984-01-08,9.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1984.0,1984-01-15,14.0,3778.0,RETURN OF THE JEDI,adapted by Joan D. Vinge,True,adapted by Joan D. Vinge,Joan D. Vinge,,right_only
+,,,,,,1948.0,1948-05-23,14.0,3153.0,MY UNCLE JAN,Joseph Auslander and Audrey Wurdemann,True,Joseph Auslander and Audrey Wurdemann,Joseph Auslander,Audrey Wurdemann,right_only
+,,,,,,1948.0,1948-05-30,15.0,3153.0,MY UNCLE JAN,Joseph Auslander and Audrey Wurdemann,True,Joseph Auslander and Audrey Wurdemann,Joseph Auslander,Audrey Wurdemann,right_only
+,,,,,,2002.0,2002-01-27,15.0,4982.0,THE DIARY OF ELLEN RIMBAUER,edited by Joyce Reardon,True,Joyce Reardon,Joyce Reardon,,right_only
+,,,,,,2002.0,2002-02-03,10.0,4982.0,THE DIARY OF ELLEN RIMBAUER,edited by Joyce Reardon,True,Joyce Reardon,Joyce Reardon,,right_only
+,,,,,,2002.0,2002-02-10,6.0,4982.0,THE DIARY OF ELLEN RIMBAUER,edited by Joyce Reardon,True,Joyce Reardon,Joyce Reardon,,right_only
+,,,,,,2002.0,2002-02-17,1.0,4982.0,THE DIARY OF ELLEN RIMBAUER,edited by Joyce Reardon,True,Joyce Reardon,Joyce Reardon,,right_only
+,,,,,,2002.0,2002-02-24,4.0,4982.0,THE DIARY OF ELLEN RIMBAUER,edited by Joyce Reardon,True,Joyce Reardon,Joyce Reardon,,right_only
+,,,,,,2002.0,2002-03-03,4.0,4982.0,THE DIARY OF ELLEN RIMBAUER,edited by Joyce Reardon,True,Joyce Reardon,Joyce Reardon,,right_only
+,,,,,,2002.0,2002-03-10,3.0,4982.0,THE DIARY OF ELLEN RIMBAUER,edited by Joyce Reardon,True,Joyce Reardon,Joyce Reardon,,right_only
+,,,,,,2002.0,2002-03-17,4.0,4982.0,THE DIARY OF ELLEN RIMBAUER,edited by Joyce Reardon,True,Joyce Reardon,Joyce Reardon,,right_only
+,,,,,,2002.0,2002-03-24,6.0,4982.0,THE DIARY OF ELLEN RIMBAUER,edited by Joyce Reardon,True,Joyce Reardon,Joyce Reardon,,right_only
+,,,,,,2002.0,2002-03-31,10.0,4982.0,THE DIARY OF ELLEN RIMBAUER,edited by Joyce Reardon,True,Joyce Reardon,Joyce Reardon,,right_only
+,,,,,,2002.0,2002-04-07,14.0,4982.0,THE DIARY OF ELLEN RIMBAUER,edited by Joyce Reardon,True,Joyce Reardon,Joyce Reardon,,right_only
+,,,,,,1990.0,1990-09-16,10.0,3609.0,PRIME DIRECTIVE,Judith and Garfield Reeves-Stevens,True,Judith and Garfield Reeves-Stevens,Judith Reeves-Stevens,Garfield Reeves-Stevens,right_only
+,,,,,,1990.0,1990-09-23,11.0,3609.0,PRIME DIRECTIVE,Judith and Garfield Reeves-Stevens,True,Judith and Garfield Reeves-Stevens,Judith Reeves-Stevens,Garfield Reeves-Stevens,right_only
+,,,,,,1990.0,1990-09-30,11.0,3609.0,PRIME DIRECTIVE,Judith and Garfield Reeves-Stevens,True,Judith and Garfield Reeves-Stevens,Judith Reeves-Stevens,Garfield Reeves-Stevens,right_only
+,,,,,,1990.0,1990-10-07,13.0,3609.0,PRIME DIRECTIVE,Judith and Garfield Reeves-Stevens,True,Judith and Garfield Reeves-Stevens,Judith Reeves-Stevens,Garfield Reeves-Stevens,right_only
+,,,,,,1990.0,1990-10-14,15.0,3609.0,PRIME DIRECTIVE,Judith and Garfield Reeves-Stevens,True,Judith and Garfield Reeves-Stevens,Judith Reeves-Stevens,Garfield Reeves-Stevens,right_only
+,,,,,,1994.0,1994-10-30,12.0,4288.0,STAR TREK FEDERATION,Judith and Garfield Reeves-Stevens,True,Judith and Garfield Reeves-Stevens,Judith Reeves-Stevens,Garfield Reeves-Stevens,right_only
+,,,,,,1994.0,1994-11-06,13.0,4288.0,STAR TREK FEDERATION,Judith and Garfield Reeves-Stevens,True,Judith and Garfield Reeves-Stevens,Judith Reeves-Stevens,Garfield Reeves-Stevens,right_only
+,,,,,,1994.0,1994-11-20,15.0,4288.0,STAR TREK FEDERATION,Judith and Garfield Reeves-Stevens,True,Judith and Garfield Reeves-Stevens,Judith Reeves-Stevens,Garfield Reeves-Stevens,right_only
+,,,,,,2007.0,2007-10-07,7.0,2503.0,JONATHAN’S STORY,Julia London with Alina Adams,True,Julia London with Alina Adams,Julia London,Alina Adams,right_only
+,,,,,,2007.0,2007-10-14,14.0,2503.0,JONATHAN’S STORY,Julia London with Alina Adams,True,Julia London with Alina Adams,Julia London,Alina Adams,right_only
+,,,,,,2007.0,2007-10-21,13.0,2503.0,JONATHAN’S STORY,Julia London with Alina Adams,True,Julia London with Alina Adams,Julia London,Alina Adams,right_only
+,,,,,,1985.0,1985-06-23,15.0,1878.0,FOOTFALL,Larry Niven and Jerry Pournelle,True,Larry Niven and Jerry Pournelle,Larry Niven,Jerry Pournelle,right_only
+,,,,,,1985.0,1985-07-07,14.0,1878.0,FOOTFALL,Larry Niven and Jerry Pournelle,True,Larry Niven and Jerry Pournelle,Larry Niven,Jerry Pournelle,right_only
+,,,,,,1985.0,1985-07-21,15.0,1878.0,FOOTFALL,Larry Niven and Jerry Pournelle,True,Larry Niven and Jerry Pournelle,Larry Niven,Jerry Pournelle,right_only
+,,,,,,2015.0,2015-09-13,15.0,160.0,A MANUAL FOR CLEANING WOMEN,Lucia Berlin. Edited by Stephen Emerson,True,Lucia Berlin,Lucia Berlin,,right_only
+,,,,,,2005.0,2005-03-06,16.0,5536.0,THE KILLING CLUB,Marcie Walsh with Michael Malone,True,Marcie Walsh with Michael Malone,Marcie Walsh,Michael Malone,right_only
+,,,,,,2005.0,2005-03-13,11.0,5536.0,THE KILLING CLUB,Marcie Walsh with Michael Malone,True,Marcie Walsh with Michael Malone,Marcie Walsh,Michael Malone,right_only
+,,,,,,2005.0,2005-03-20,15.0,5536.0,THE KILLING CLUB,Marcie Walsh with Michael Malone,True,Marcie Walsh with Michael Malone,Marcie Walsh,Michael Malone,right_only
+,,,,,,2005.0,2005-04-10,12.0,5536.0,THE KILLING CLUB,Marcie Walsh with Michael Malone,True,Marcie Walsh with Michael Malone,Marcie Walsh,Michael Malone,right_only
+,,,,,,1991.0,1991-08-04,15.0,1826.0,FIRE SEA,Margaret Weis and Tracy Hickman,True,Margaret Weis and Tracy Hickman,Margaret Weis,Tracy Hickman,right_only
+,,,,,,1994.0,1994-08-28,14.0,6266.0,THE SEVENTH GATE,Margaret Weis and Tracy Hickman,True,Margaret Weis and Tracy Hickman,Margaret Weis,Tracy Hickman,right_only
+,,,,,,1994.0,1994-09-04,15.0,6266.0,THE SEVENTH GATE,Margaret Weis and Tracy Hickman,True,Margaret Weis and Tracy Hickman,Margaret Weis,Tracy Hickman,right_only
+,,,,,,1995.0,1995-11-26,15.0,1535.0,DRAGONS OF SUMMER FLAME,Margaret Weis and Tracy Hickman,True,Margaret Weis and Tracy Hickman,Margaret Weis,Tracy Hickman,right_only
+,,,,,,2000.0,2000-04-02,14.0,1532.0,DRAGONS OF A FALLEN SUN,Margaret Weis and Tracy Hickman,True,Margaret Weis and Tracy Hickman,Margaret Weis,Tracy Hickman,right_only
+,,,,,,2000.0,2000-04-09,16.0,1532.0,DRAGONS OF A FALLEN SUN,Margaret Weis and Tracy Hickman,True,Margaret Weis and Tracy Hickman,Margaret Weis,Tracy Hickman,right_only
+,,,,,,2001.0,2001-04-29,12.0,1533.0,DRAGONS OF A LOST STAR,Margaret Weis and Tracy Hickman,True,Margaret Weis and Tracy Hickman,Margaret Weis,Tracy Hickman,right_only
+,,,,,,2001.0,2001-05-06,16.0,1533.0,DRAGONS OF A LOST STAR,Margaret Weis and Tracy Hickman,True,Margaret Weis and Tracy Hickman,Margaret Weis,Tracy Hickman,right_only
+,,,,,,2002.0,2002-07-07,10.0,1534.0,DRAGONS OF A VANISHED MOON,Margaret Weis and Tracy Hickman,True,Margaret Weis and Tracy Hickman,Margaret Weis,Tracy Hickman,right_only
+,,,,,,2002.0,2002-07-14,15.0,1534.0,DRAGONS OF A VANISHED MOON,Margaret Weis and Tracy Hickman,True,Margaret Weis and Tracy Hickman,Margaret Weis,Tracy Hickman,right_only
+,,,,,,1999.0,1999-04-11,7.0,7222.0,WHAT'S HEAVEN?,Maria Shriver. Illustrated by Sandra Speidel,True,Maria Shriver,Maria Shriver,,right_only
+,,,,,,1999.0,1999-04-18,5.0,7222.0,WHAT'S HEAVEN?,Maria Shriver. Illustrated by Sandra Speidel,True,Maria Shriver,Maria Shriver,,right_only
+,,,,,,1999.0,1999-04-25,7.0,7222.0,WHAT'S HEAVEN?,Maria Shriver. Illustrated by Sandra Speidel,True,Maria Shriver,Maria Shriver,,right_only
+,,,,,,1999.0,1999-05-02,10.0,7222.0,WHAT'S HEAVEN?,Maria Shriver. Illustrated by Sandra Speidel,True,Maria Shriver,Maria Shriver,,right_only
+,,,,,,1999.0,1999-05-09,12.0,7222.0,WHAT'S HEAVEN?,Maria Shriver. Illustrated by Sandra Speidel,True,Maria Shriver,Maria Shriver,,right_only
+,,,,,,1999.0,1999-05-16,9.0,7222.0,WHAT'S HEAVEN?,Maria Shriver. Illustrated by Sandra Speidel,True,Maria Shriver,Maria Shriver,,right_only
+,,,,,,1999.0,1999-05-23,17.0,7222.0,WHAT'S HEAVEN?,Maria Shriver. Illustrated by Sandra Speidel,True,Maria Shriver,Maria Shriver,,right_only
+,,,,,,1957.0,1957-02-24,15.0,792.0,BON VOYAGE,Marrijane and Joseph Hayes,True,Marrijane and Joseph Hayes,Marrijane Hayes,Joseph Hayes,right_only
+,,,,,,1978.0,1978-01-15,13.0,2401.0,IN THE NATIONAL INTEREST,Marvin Kalb and Ted Koppel,True,Marvin Kalb and Ted Koppel,Marvin Kalb,Ted Koppel,right_only
+,,,,,,2008.0,2008-08-17,5.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2008.0,2008-08-24,3.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2008.0,2008-08-31,4.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2008.0,2008-09-07,3.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2008.0,2008-09-14,3.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2008.0,2008-09-21,5.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2008.0,2008-09-28,3.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2008.0,2008-10-05,5.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2008.0,2008-10-12,9.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2008.0,2008-10-19,12.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2008.0,2008-10-26,15.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2008.0,2008-11-09,15.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2008.0,2008-11-16,13.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2008.0,2008-12-07,13.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2008.0,2008-12-28,16.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2009.0,2009-01-04,15.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2009.0,2009-01-25,10.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2009.0,2009-02-01,8.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2009.0,2009-02-08,8.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2009.0,2009-02-15,9.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2009.0,2009-02-22,8.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2009.0,2009-03-01,8.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2009.0,2009-03-08,6.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2009.0,2009-03-15,10.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2009.0,2009-03-22,10.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2009.0,2009-03-29,11.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2009.0,2009-04-05,7.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2009.0,2009-04-12,9.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2009.0,2009-04-19,13.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2009.0,2009-04-26,13.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2009.0,2009-05-03,9.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2009.0,2009-05-10,14.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,2009.0,2009-05-17,15.0,5343.0,THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY,Mary Ann Shaffer and Annie Barrows,True,Mary Ann Shaffer and Annie Barrows,Mary Ann Shaffer,Annie Barrows,right_only
+,,,,,,1987.0,1987-11-22,15.0,6377.0,THE SPLENDID OUTCAST: Beryl Markham's African Stories,compiled by Mary S. Lovell,True,compiled by Mary S. Lovell,Mary S. Lovell,,right_only
+,,,,,,1991.0,1991-05-19,13.0,4906.0,THE CROWN OF COLUMBUS,Michael Dorris and Louise Erdrich,True,Michael Dorris and Louise Erdrich,Michael Dorris,Louise Erdrich,right_only
+,,,,,,1991.0,1991-05-26,15.0,4906.0,THE CROWN OF COLUMBUS,Michael Dorris and Louise Erdrich,True,Michael Dorris and Louise Erdrich,Michael Dorris,Louise Erdrich,right_only
+,,,,,,1991.0,1991-06-02,10.0,4906.0,THE CROWN OF COLUMBUS,Michael Dorris and Louise Erdrich,True,Michael Dorris and Louise Erdrich,Michael Dorris,Louise Erdrich,right_only
+,,,,,,1991.0,1991-06-09,10.0,4906.0,THE CROWN OF COLUMBUS,Michael Dorris and Louise Erdrich,True,Michael Dorris and Louise Erdrich,Michael Dorris,Louise Erdrich,right_only
+,,,,,,1991.0,1991-06-16,9.0,4906.0,THE CROWN OF COLUMBUS,Michael Dorris and Louise Erdrich,True,Michael Dorris and Louise Erdrich,Michael Dorris,Louise Erdrich,right_only
+,,,,,,1991.0,1991-06-23,11.0,4906.0,THE CROWN OF COLUMBUS,Michael Dorris and Louise Erdrich,True,Michael Dorris and Louise Erdrich,Michael Dorris,Louise Erdrich,right_only
+,,,,,,1991.0,1991-06-30,16.0,4906.0,THE CROWN OF COLUMBUS,Michael Dorris and Louise Erdrich,True,Michael Dorris and Louise Erdrich,Michael Dorris,Louise Erdrich,right_only
+,,,,,,2003.0,2003-06-29,12.0,1982.0,GETTYSBURG,Newt Gingrich and William R. Forstchen,True,Newt Gingrich and William R. Forstchen,Newt Gingrich,William R. Forstchen,right_only
+,,,,,,2007.0,2007-06-03,7.0,3489.0,PEARL HARBOR,Newt Gingrich and William R. Forstchen,True,Newt Gingrich and William R. Forstchen,Newt Gingrich,William R. Forstchen,right_only
+,,,,,,2007.0,2007-06-10,13.0,3489.0,PEARL HARBOR,Newt Gingrich and William R. Forstchen,True,Newt Gingrich and William R. Forstchen,Newt Gingrich,William R. Forstchen,right_only
+,,,,,,2008.0,2008-05-18,11.0,1319.0,DAYS OF INFAMY,Newt Gingrich and William R. Forstchen,True,Newt Gingrich and William R. Forstchen,Newt Gingrich,William R. Forstchen,right_only
+,,,,,,2009.0,2009-11-08,13.0,6899.0,TO TRY MEN'S SOULS,"Newt Gingrich, William R. Forstchen and Albert S. Hanser",True,"Newt Gingrich, William R. Forstchen and Albert S. Hanser","Newt Gingrich, William R. Forstchen",Albert S. Hanser,right_only
+,,,,,,1946.0,1946-12-08,12.0,2212.0,HOLDFAST GAINES,Odell Shepard and Willard Shepard,True,Odell Shepard and Willard Shepard,Odell Shepard,Willard Shepard,right_only
+,,,,,,1946.0,1946-12-15,8.0,2212.0,HOLDFAST GAINES,Odell Shepard and Willard Shepard,True,Odell Shepard and Willard Shepard,Odell Shepard,Willard Shepard,right_only
+,,,,,,1946.0,1946-12-22,8.0,2212.0,HOLDFAST GAINES,Odell Shepard and Willard Shepard,True,Odell Shepard and Willard Shepard,Odell Shepard,Willard Shepard,right_only
+,,,,,,1946.0,1946-12-29,6.0,2212.0,HOLDFAST GAINES,Odell Shepard and Willard Shepard,True,Odell Shepard and Willard Shepard,Odell Shepard,Willard Shepard,right_only
+,,,,,,1947.0,1947-01-05,6.0,2212.0,HOLDFAST GAINES,Odell Shepard and Willard Shepard,True,Odell Shepard and Willard Shepard,Odell Shepard,Willard Shepard,right_only
+,,,,,,1947.0,1947-01-12,5.0,2212.0,HOLDFAST GAINES,Odell Shepard and Willard Shepard,True,Odell Shepard and Willard Shepard,Odell Shepard,Willard Shepard,right_only
+,,,,,,1947.0,1947-01-19,6.0,2212.0,HOLDFAST GAINES,Odell Shepard and Willard Shepard,True,Odell Shepard and Willard Shepard,Odell Shepard,Willard Shepard,right_only
+,,,,,,1947.0,1947-01-26,6.0,2212.0,HOLDFAST GAINES,Odell Shepard and Willard Shepard,True,Odell Shepard and Willard Shepard,Odell Shepard,Willard Shepard,right_only
+,,,,,,1947.0,1947-02-02,7.0,2212.0,HOLDFAST GAINES,Odell Shepard and Willard Shepard,True,Odell Shepard and Willard Shepard,Odell Shepard,Willard Shepard,right_only
+,,,,,,1947.0,1947-02-09,6.0,2212.0,HOLDFAST GAINES,Odell Shepard and Willard Shepard,True,Odell Shepard and Willard Shepard,Odell Shepard,Willard Shepard,right_only
+,,,,,,1947.0,1947-02-16,7.0,2212.0,HOLDFAST GAINES,Odell Shepard and Willard Shepard,True,Odell Shepard and Willard Shepard,Odell Shepard,Willard Shepard,right_only
+,,,,,,1947.0,1947-02-23,9.0,2212.0,HOLDFAST GAINES,Odell Shepard and Willard Shepard,True,Odell Shepard and Willard Shepard,Odell Shepard,Willard Shepard,right_only
+,,,,,,1947.0,1947-03-02,14.0,2212.0,HOLDFAST GAINES,Odell Shepard and Willard Shepard,True,Odell Shepard and Willard Shepard,Odell Shepard,Willard Shepard,right_only
+,,,,,,1947.0,1947-03-09,14.0,2212.0,HOLDFAST GAINES,Odell Shepard and Willard Shepard,True,Odell Shepard and Willard Shepard,Odell Shepard,Willard Shepard,right_only
+,,,,,,1947.0,1947-03-16,16.0,2212.0,HOLDFAST GAINES,Odell Shepard and Willard Shepard,True,Odell Shepard and Willard Shepard,Odell Shepard,Willard Shepard,right_only
+,,,,,,1951.0,1951-04-29,16.0,2485.0,JENKINS' EAR,Odell Shepard and Willard Shepard,True,Odell Shepard and Willard Shepard,Odell Shepard,Willard Shepard,right_only
+,,,,,,2002.0,2002-09-22,10.0,3022.0,MISSION COMPROMISED,Oliver North with Joe Musser,True,Oliver North with Joe Musser,Oliver North,Joe Musser,right_only
+,,,,,,2002.0,2002-09-29,4.0,3022.0,MISSION COMPROMISED,Oliver North with Joe Musser,True,Oliver North with Joe Musser,Oliver North,Joe Musser,right_only
+,,,,,,2003.0,2003-09-28,13.0,5505.0,THE JERICHO SANCTION,Oliver North and Joe Musser,True,Oliver North and Joe Musser,Oliver North,Joe Musser,right_only
+,,,,,,2005.0,2005-10-23,14.0,4575.0,THE ASSASSINS,Oliver North and Joe Musser,True,Oliver North and Joe Musser,Oliver North,Joe Musser,right_only
+,,,,,,1986.0,1986-03-30,9.0,2230.0,HOME FRONT,Patti Davis with Maureen Strange Foster,True,Patti Davis with Maureen Strange Foster,Patti Davis,Maureen Strange Foster,right_only
+,,,,,,1986.0,1986-04-06,6.0,2230.0,HOME FRONT,Patti Davis with Maureen Strange Foster,True,Patti Davis with Maureen Strange Foster,Patti Davis,Maureen Strange Foster,right_only
+,,,,,,1986.0,1986-04-13,6.0,2230.0,HOME FRONT,Patti Davis with Maureen Strange Foster,True,Patti Davis with Maureen Strange Foster,Patti Davis,Maureen Strange Foster,right_only
+,,,,,,1986.0,1986-04-20,7.0,2230.0,HOME FRONT,Patti Davis with Maureen Strange Foster,True,Patti Davis with Maureen Strange Foster,Patti Davis,Maureen Strange Foster,right_only
+,,,,,,1986.0,1986-04-27,8.0,2230.0,HOME FRONT,Patti Davis with Maureen Strange Foster,True,Patti Davis with Maureen Strange Foster,Patti Davis,Maureen Strange Foster,right_only
+,,,,,,1986.0,1986-05-04,8.0,2230.0,HOME FRONT,Patti Davis with Maureen Strange Foster,True,Patti Davis with Maureen Strange Foster,Patti Davis,Maureen Strange Foster,right_only
+,,,,,,1986.0,1986-05-11,9.0,2230.0,HOME FRONT,Patti Davis with Maureen Strange Foster,True,Patti Davis with Maureen Strange Foster,Patti Davis,Maureen Strange Foster,right_only
+,,,,,,1986.0,1986-05-18,11.0,2230.0,HOME FRONT,Patti Davis with Maureen Strange Foster,True,Patti Davis with Maureen Strange Foster,Patti Davis,Maureen Strange Foster,right_only
+,,,,,,1986.0,1986-05-25,9.0,2230.0,HOME FRONT,Patti Davis with Maureen Strange Foster,True,Patti Davis with Maureen Strange Foster,Patti Davis,Maureen Strange Foster,right_only
+,,,,,,1994.0,1994-03-13,13.0,3853.0,ROGUE WARRIOR II: Red Cell,Richard Marcinko and John Weisman,True,Richard Marcinko and John Weisman,Richard Marcinko,John Weisman,right_only
+,,,,,,1994.0,1994-03-20,9.0,3853.0,ROGUE WARRIOR II: Red Cell,Richard Marcinko and John Weisman,True,Richard Marcinko and John Weisman,Richard Marcinko,John Weisman,right_only
+,,,,,,1994.0,1994-03-27,8.0,3853.0,ROGUE WARRIOR II: Red Cell,Richard Marcinko and John Weisman,True,Richard Marcinko and John Weisman,Richard Marcinko,John Weisman,right_only
+,,,,,,1994.0,1994-04-03,7.0,3853.0,ROGUE WARRIOR II: Red Cell,Richard Marcinko and John Weisman,True,Richard Marcinko and John Weisman,Richard Marcinko,John Weisman,right_only
+,,,,,,1994.0,1994-04-10,7.0,3853.0,ROGUE WARRIOR II: Red Cell,Richard Marcinko and John Weisman,True,Richard Marcinko and John Weisman,Richard Marcinko,John Weisman,right_only
+,,,,,,1994.0,1994-04-17,9.0,3853.0,ROGUE WARRIOR II: Red Cell,Richard Marcinko and John Weisman,True,Richard Marcinko and John Weisman,Richard Marcinko,John Weisman,right_only
+,,,,,,1994.0,1994-04-24,14.0,3853.0,ROGUE WARRIOR II: Red Cell,Richard Marcinko and John Weisman,True,Richard Marcinko and John Weisman,Richard Marcinko,John Weisman,right_only
+,,,,,,1995.0,1995-03-05,14.0,3854.0,ROGUE WARRIOR: GREEN TEAM,Richard Marcinko and John Weisman,True,Richard Marcinko and John Weisman,Richard Marcinko,John Weisman,right_only
+,,,,,,1995.0,1995-03-19,13.0,3854.0,ROGUE WARRIOR: GREEN TEAM,Richard Marcinko and John Weisman,True,Richard Marcinko and John Weisman,Richard Marcinko,John Weisman,right_only
+,,,,,,1995.0,1995-03-26,14.0,3854.0,ROGUE WARRIOR: GREEN TEAM,Richard Marcinko and John Weisman,True,Richard Marcinko and John Weisman,Richard Marcinko,John Weisman,right_only
+,,,,,,1995.0,1995-04-09,16.0,3854.0,ROGUE WARRIOR: GREEN TEAM,Richard Marcinko and John Weisman,True,Richard Marcinko and John Weisman,Richard Marcinko,John Weisman,right_only
+,,,,,,1996.0,1996-03-10,15.0,3855.0,ROGUE WARRIOR: TASK FORCE BLUE,Richard Marcinko and John Weisman,True,Richard Marcinko and John Weisman,Richard Marcinko,John Weisman,right_only
+,,,,,,1996.0,1996-03-17,10.0,3855.0,ROGUE WARRIOR: TASK FORCE BLUE,Richard Marcinko and John Weisman,True,Richard Marcinko and John Weisman,Richard Marcinko,John Weisman,right_only
+,,,,,,1996.0,1996-03-24,13.0,3855.0,ROGUE WARRIOR: TASK FORCE BLUE,Richard Marcinko and John Weisman,True,Richard Marcinko and John Weisman,Richard Marcinko,John Weisman,right_only
+,,,,,,1996.0,1996-03-31,15.0,3855.0,ROGUE WARRIOR: TASK FORCE BLUE,Richard Marcinko and John Weisman,True,Richard Marcinko and John Weisman,Richard Marcinko,John Weisman,right_only
+,,,,,,1996.0,1996-04-14,14.0,3855.0,ROGUE WARRIOR: TASK FORCE BLUE,Richard Marcinko and John Weisman,True,Richard Marcinko and John Weisman,Richard Marcinko,John Weisman,right_only
+,,,,,,1997.0,1997-03-09,16.0,1427.0,DESIGNATION GOLD,Richard Marcinko and John Weisman,True,Richard Marcinko and John Weisman,Richard Marcinko,John Weisman,right_only
+,,,,,,1997.0,1997-03-16,15.0,1427.0,DESIGNATION GOLD,Richard Marcinko and John Weisman,True,Richard Marcinko and John Weisman,Richard Marcinko,John Weisman,right_only
+,,,,,,1998.0,1998-03-15,12.0,3962.0,SEAL FORCE ALPHA,Richard Marcinko and John Weisman,True,Richard Marcinko and John Weisman,Richard Marcinko,John Weisman,right_only
+,,,,,,2000.0,2000-03-19,17.0,662.0,BEOWULF,translated by Seamus Heaney,True,translated by Seamus Heaney,Seamus Heaney,,right_only
+,,,,,,2000.0,2000-04-02,13.0,662.0,BEOWULF,translated by Seamus Heaney,True,translated by Seamus Heaney,Seamus Heaney,,right_only
+,,,,,,2000.0,2000-04-09,11.0,662.0,BEOWULF,translated by Seamus Heaney,True,translated by Seamus Heaney,Seamus Heaney,,right_only
+,,,,,,2000.0,2000-04-16,8.0,662.0,BEOWULF,translated by Seamus Heaney,True,translated by Seamus Heaney,Seamus Heaney,,right_only
+,,,,,,2000.0,2000-04-23,10.0,662.0,BEOWULF,translated by Seamus Heaney,True,translated by Seamus Heaney,Seamus Heaney,,right_only
+,,,,,,2000.0,2000-04-30,9.0,662.0,BEOWULF,translated by Seamus Heaney,True,translated by Seamus Heaney,Seamus Heaney,,right_only
+,,,,,,2000.0,2000-05-07,11.0,662.0,BEOWULF,translated by Seamus Heaney,True,translated by Seamus Heaney,Seamus Heaney,,right_only
+,,,,,,2000.0,2000-05-14,8.0,662.0,BEOWULF,translated by Seamus Heaney,True,translated by Seamus Heaney,Seamus Heaney,,right_only
+,,,,,,2000.0,2000-05-21,10.0,662.0,BEOWULF,translated by Seamus Heaney,True,translated by Seamus Heaney,Seamus Heaney,,right_only
+,,,,,,2000.0,2000-05-28,12.0,662.0,BEOWULF,translated by Seamus Heaney,True,translated by Seamus Heaney,Seamus Heaney,,right_only
+,,,,,,1964.0,1964-05-31,9.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1964.0,1964-06-07,7.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1964.0,1964-06-14,6.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1964.0,1964-06-21,3.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1964.0,1964-06-28,3.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1964.0,1964-07-05,3.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1964.0,1964-07-12,3.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1964.0,1964-07-19,4.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1964.0,1964-07-26,4.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1964.0,1964-08-02,3.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1964.0,1964-08-09,4.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1964.0,1964-08-16,4.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1964.0,1964-08-23,5.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1964.0,1964-08-30,5.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1964.0,1964-09-06,5.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1964.0,1964-09-13,2.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1964.0,1964-09-20,2.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1964.0,1964-09-27,3.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1964.0,1964-10-04,4.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1964.0,1964-10-11,2.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1964.0,1964-10-18,2.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1964.0,1964-10-25,5.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1964.0,1964-11-01,4.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1964.0,1964-11-08,5.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1964.0,1964-11-15,4.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1964.0,1964-11-22,4.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1964.0,1964-11-29,5.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1964.0,1964-12-06,5.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1964.0,1964-12-13,5.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1964.0,1964-12-20,7.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1964.0,1964-12-27,9.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1965.0,1965-01-03,6.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1965.0,1965-01-10,8.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1965.0,1965-01-17,8.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1965.0,1965-01-31,5.0,915.0,CANDY,Terry Southern and Mason Hoffenberg,True,Terry Southern and Mason Hoffenberg,Terry Southern,Mason Hoffenberg,right_only
+,,,,,,1999.0,1999-02-28,13.0,498.0,APOLLYON,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,1999.0,1999-03-07,7.0,498.0,APOLLYON,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,1999.0,1999-03-14,2.0,498.0,APOLLYON,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,1999.0,1999-03-21,6.0,498.0,APOLLYON,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,1999.0,1999-03-28,7.0,498.0,APOLLYON,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,1999.0,1999-04-04,8.0,498.0,APOLLYON,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,1999.0,1999-04-11,12.0,498.0,APOLLYON,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,1999.0,1999-04-18,13.0,498.0,APOLLYON,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,1999.0,1999-04-25,14.0,498.0,APOLLYON,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,1999.0,1999-08-22,2.0,530.0,ASSASSINS,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,1999.0,1999-08-29,2.0,530.0,ASSASSINS,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,1999.0,1999-09-05,3.0,530.0,ASSASSINS,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,1999.0,1999-09-05,11.0,498.0,APOLLYON,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,1999.0,1999-09-12,4.0,530.0,ASSASSINS,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,1999.0,1999-09-12,12.0,498.0,APOLLYON,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,1999.0,1999-09-19,5.0,530.0,ASSASSINS,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,1999.0,1999-09-19,12.0,498.0,APOLLYON,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,1999.0,1999-09-26,6.0,530.0,ASSASSINS,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,1999.0,1999-10-03,8.0,530.0,ASSASSINS,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,1999.0,1999-10-10,7.0,530.0,ASSASSINS,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,1999.0,1999-10-10,15.0,498.0,APOLLYON,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,1999.0,1999-10-17,8.0,530.0,ASSASSINS,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,1999.0,1999-10-24,10.0,530.0,ASSASSINS,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,1999.0,1999-10-31,13.0,530.0,ASSASSINS,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,1999.0,1999-11-07,12.0,530.0,ASSASSINS,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,1999.0,1999-11-14,11.0,530.0,ASSASSINS,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,1999.0,1999-11-21,11.0,530.0,ASSASSINS,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2000.0,2000-06-11,1.0,5469.0,THE INDWELLING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2000.0,2000-06-18,1.0,5469.0,THE INDWELLING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2000.0,2000-06-25,1.0,5469.0,THE INDWELLING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2000.0,2000-07-02,1.0,5469.0,THE INDWELLING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2000.0,2000-07-09,3.0,5469.0,THE INDWELLING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2000.0,2000-07-16,6.0,5469.0,THE INDWELLING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2000.0,2000-07-23,4.0,5469.0,THE INDWELLING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2000.0,2000-07-30,5.0,5469.0,THE INDWELLING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2000.0,2000-08-06,5.0,5469.0,THE INDWELLING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2000.0,2000-08-13,9.0,5469.0,THE INDWELLING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2000.0,2000-08-20,10.0,5469.0,THE INDWELLING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2000.0,2000-08-27,11.0,5469.0,THE INDWELLING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2000.0,2000-09-03,10.0,5469.0,THE INDWELLING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2000.0,2000-09-10,10.0,5469.0,THE INDWELLING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2000.0,2000-09-17,7.0,5469.0,THE INDWELLING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2000.0,2000-09-24,8.0,5469.0,THE INDWELLING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2000.0,2000-10-01,12.0,5469.0,THE INDWELLING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2000.0,2000-10-08,10.0,5469.0,THE INDWELLING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2000.0,2000-12-03,1.0,5766.0,THE MARK,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2000.0,2000-12-10,1.0,5766.0,THE MARK,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2000.0,2000-12-17,1.0,5766.0,THE MARK,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2000.0,2000-12-24,1.0,5766.0,THE MARK,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2000.0,2000-12-31,1.0,5766.0,THE MARK,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2001.0,2001-01-07,2.0,5766.0,THE MARK,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2001.0,2001-01-14,3.0,5766.0,THE MARK,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2001.0,2001-01-21,3.0,5766.0,THE MARK,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2001.0,2001-01-21,13.0,5469.0,THE INDWELLING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2001.0,2001-01-28,6.0,5766.0,THE MARK,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2001.0,2001-02-04,12.0,5766.0,THE MARK,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2001.0,2001-02-11,6.0,5766.0,THE MARK,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2001.0,2001-02-18,6.0,5766.0,THE MARK,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2001.0,2001-02-25,10.0,5766.0,THE MARK,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2001.0,2001-03-04,15.0,5766.0,THE MARK,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2001.0,2001-03-11,9.0,5766.0,THE MARK,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2001.0,2001-03-18,5.0,5766.0,THE MARK,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2001.0,2001-03-25,7.0,5766.0,THE MARK,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2001.0,2001-04-01,10.0,5766.0,THE MARK,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2001.0,2001-04-08,11.0,5766.0,THE MARK,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2001.0,2001-04-15,9.0,5766.0,THE MARK,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2001.0,2001-04-22,11.0,5766.0,THE MARK,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2001.0,2001-11-18,1.0,1425.0,DESECRATION,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2001.0,2001-11-25,1.0,1425.0,DESECRATION,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2001.0,2001-12-02,1.0,1425.0,DESECRATION,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2001.0,2001-12-09,3.0,1425.0,DESECRATION,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2001.0,2001-12-16,3.0,1425.0,DESECRATION,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2001.0,2001-12-23,5.0,1425.0,DESECRATION,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2001.0,2001-12-30,8.0,1425.0,DESECRATION,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2002.0,2002-01-06,3.0,1425.0,DESECRATION,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2002.0,2002-01-13,6.0,1425.0,DESECRATION,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2002.0,2002-01-20,5.0,1425.0,DESECRATION,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2002.0,2002-01-27,9.0,1425.0,DESECRATION,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2002.0,2002-02-10,12.0,1425.0,DESECRATION,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2002.0,2002-07-21,1.0,6122.0,THE REMNANT,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2002.0,2002-07-28,1.0,6122.0,THE REMNANT,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2002.0,2002-08-04,1.0,6122.0,THE REMNANT,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2002.0,2002-08-18,2.0,6122.0,THE REMNANT,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2002.0,2002-08-25,3.0,6122.0,THE REMNANT,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2002.0,2002-09-01,3.0,6122.0,THE REMNANT,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2002.0,2002-09-08,4.0,6122.0,THE REMNANT,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2002.0,2002-09-15,6.0,6122.0,THE REMNANT,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2002.0,2002-09-22,7.0,6122.0,THE REMNANT,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2002.0,2002-09-29,13.0,6122.0,THE REMNANT,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2002.0,2002-10-06,14.0,6122.0,THE REMNANT,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2003.0,2003-04-27,1.0,509.0,ARMAGEDDON,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2003.0,2003-05-04,1.0,509.0,ARMAGEDDON,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2003.0,2003-05-11,1.0,509.0,ARMAGEDDON,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2003.0,2003-05-18,1.0,509.0,ARMAGEDDON,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2003.0,2003-05-25,1.0,509.0,ARMAGEDDON,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2003.0,2003-06-01,3.0,509.0,ARMAGEDDON,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2003.0,2003-06-08,7.0,509.0,ARMAGEDDON,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2003.0,2003-06-15,6.0,509.0,ARMAGEDDON,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2003.0,2003-06-22,7.0,509.0,ARMAGEDDON,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2003.0,2003-06-29,10.0,509.0,ARMAGEDDON,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2003.0,2003-07-06,12.0,509.0,ARMAGEDDON,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2003.0,2003-07-13,11.0,509.0,ARMAGEDDON,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2003.0,2003-11-09,7.0,560.0,BABYLON RISING,Tim LaHaye and Greg Dinallo,True,Tim LaHaye and Greg Dinallo,Tim LaHaye,Greg Dinallo,right_only
+,,,,,,2003.0,2003-11-16,8.0,560.0,BABYLON RISING,Tim LaHaye and Greg Dinallo,True,Tim LaHaye and Greg Dinallo,Tim LaHaye,Greg Dinallo,right_only
+,,,,,,2003.0,2003-11-23,15.0,560.0,BABYLON RISING,Tim LaHaye and Greg Dinallo,True,Tim LaHaye and Greg Dinallo,Tim LaHaye,Greg Dinallo,right_only
+,,,,,,2004.0,2004-04-18,1.0,1998.0,GLORIOUS APPEARING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2004.0,2004-04-25,1.0,1998.0,GLORIOUS APPEARING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2004.0,2004-05-02,1.0,1998.0,GLORIOUS APPEARING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2004.0,2004-05-09,2.0,1998.0,GLORIOUS APPEARING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2004.0,2004-05-16,3.0,1998.0,GLORIOUS APPEARING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2004.0,2004-05-23,5.0,1998.0,GLORIOUS APPEARING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2004.0,2004-05-30,7.0,1998.0,GLORIOUS APPEARING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2004.0,2004-06-06,7.0,1998.0,GLORIOUS APPEARING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2004.0,2004-06-13,8.0,1998.0,GLORIOUS APPEARING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2004.0,2004-06-20,11.0,1998.0,GLORIOUS APPEARING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2004.0,2004-06-27,12.0,1998.0,GLORIOUS APPEARING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2004.0,2004-07-04,7.0,1998.0,GLORIOUS APPEARING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2004.0,2004-09-19,12.0,6234.0,THE SECRET ON ARARAT,Tim LaHaye and Bob Phillips,True,Tim LaHaye and Bob Phillips,Tim LaHaye,Bob Phillips,right_only
+,,,,,,2004.0,2004-09-26,14.0,6234.0,THE SECRET ON ARARAT,Tim LaHaye and Bob Phillips,True,Tim LaHaye and Bob Phillips,Tim LaHaye,Bob Phillips,right_only
+,,,,,,2005.0,2005-03-20,2.0,6143.0,THE RISING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2005.0,2005-03-27,2.0,6143.0,THE RISING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2005.0,2005-04-03,1.0,6143.0,THE RISING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2005.0,2005-04-10,4.0,6143.0,THE RISING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2005.0,2005-04-17,6.0,6143.0,THE RISING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2005.0,2005-04-24,11.0,6143.0,THE RISING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2005.0,2005-05-01,14.0,6143.0,THE RISING,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2005.0,2005-12-04,6.0,6116.0,THE REGIME: EVIL ADVANCES,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2005.0,2005-12-11,10.0,6116.0,THE REGIME: EVIL ADVANCES,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2005.0,2005-12-18,13.0,6116.0,THE REGIME: EVIL ADVANCES,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2005.0,2005-12-25,14.0,6116.0,THE REGIME: EVIL ADVANCES,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2006.0,2006-06-25,4.0,6101.0,THE RAPTURE,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2006.0,2006-07-02,8.0,6101.0,THE RAPTURE,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2006.0,2006-07-09,8.0,6101.0,THE RAPTURE,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2007.0,2007-04-22,3.0,2581.0,KINGDOM COME,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2007.0,2007-04-29,6.0,2581.0,KINGDOM COME,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2007.0,2007-05-06,8.0,2581.0,KINGDOM COME,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2007.0,2007-05-13,11.0,2581.0,KINGDOM COME,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,2007.0,2007-05-20,16.0,2581.0,KINGDOM COME,Tim LaHaye and Jerry B. Jenkins,True,Tim LaHaye and Jerry B. Jenkins,Tim LaHaye,Jerry B. Jenkins,right_only
+,,,,,,1986.0,1986-10-19,15.0,6701.0,THE WILD BLUE,Walter J. Boyne and Steven L. Thompson,True,Walter J. Boyne and Steven L. Thompson,Walter J. Boyne,Steven L. Thompson,right_only
+,,,,,,1986.0,1986-11-02,15.0,6701.0,THE WILD BLUE,Walter J. Boyne and Steven L. Thompson,True,Walter J. Boyne and Steven L. Thompson,Walter J. Boyne,Steven L. Thompson,right_only
+,,,,,,1995.0,1995-11-12,12.0,4823.0,THE CHILDREN'S BOOK OF VIRTUES,edited by William J. Bennett. Illustrated by Michael Hague,True,William J. Bennett,William J. Bennett,,right_only
+,,,,,,1995.0,1995-11-19,7.0,4823.0,THE CHILDREN'S BOOK OF VIRTUES,edited by William J. Bennett. Illustrated by Michael Hague,True,William J. Bennett,William J. Bennett,,right_only
+,,,,,,1995.0,1995-11-26,4.0,4823.0,THE CHILDREN'S BOOK OF VIRTUES,edited by William J. Bennett. Illustrated by Michael Hague,True,William J. Bennett,William J. Bennett,,right_only
+,,,,,,1995.0,1995-12-03,5.0,4823.0,THE CHILDREN'S BOOK OF VIRTUES,edited by William J. Bennett. Illustrated by Michael Hague,True,William J. Bennett,William J. Bennett,,right_only
+,,,,,,1995.0,1995-12-10,6.0,4823.0,THE CHILDREN'S BOOK OF VIRTUES,edited by William J. Bennett. Illustrated by Michael Hague,True,William J. Bennett,William J. Bennett,,right_only
+,,,,,,1995.0,1995-12-17,6.0,4823.0,THE CHILDREN'S BOOK OF VIRTUES,edited by William J. Bennett. Illustrated by Michael Hague,True,William J. Bennett,William J. Bennett,,right_only
+,,,,,,1995.0,1995-12-24,6.0,4823.0,THE CHILDREN'S BOOK OF VIRTUES,edited by William J. Bennett. Illustrated by Michael Hague,True,William J. Bennett,William J. Bennett,,right_only
+,,,,,,1995.0,1995-12-31,7.0,4823.0,THE CHILDREN'S BOOK OF VIRTUES,edited by William J. Bennett. Illustrated by Michael Hague,True,William J. Bennett,William J. Bennett,,right_only
+,,,,,,1996.0,1996-01-07,7.0,4823.0,THE CHILDREN'S BOOK OF VIRTUES,edited by William J. Bennett. Illustrated by Michael Hague,True,William J. Bennett,William J. Bennett,,right_only
+,,,,,,1996.0,1996-01-14,10.0,4823.0,THE CHILDREN'S BOOK OF VIRTUES,edited by William J. Bennett. Illustrated by Michael Hague,True,William J. Bennett,William J. Bennett,,right_only
+,,,,,,1996.0,1996-01-21,15.0,4823.0,THE CHILDREN'S BOOK OF VIRTUES,edited by William J. Bennett. Illustrated by Michael Hague,True,William J. Bennett,William J. Bennett,,right_only
+,,,,,,1996.0,1996-01-28,11.0,4823.0,THE CHILDREN'S BOOK OF VIRTUES,edited by William J. Bennett. Illustrated by Michael Hague,True,William J. Bennett,William J. Bennett,,right_only
+,,,,,,1996.0,1996-02-04,13.0,4823.0,THE CHILDREN'S BOOK OF VIRTUES,edited by William J. Bennett. Illustrated by Michael Hague,True,William J. Bennett,William J. Bennett,,right_only
+,,,,,,1958.0,1958-10-26,15.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1958.0,1958-11-02,11.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1958.0,1958-11-09,10.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1958.0,1958-11-16,11.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1958.0,1958-11-23,9.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1958.0,1958-11-30,8.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1958.0,1958-12-07,8.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1958.0,1958-12-14,8.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-01-04,6.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-01-11,6.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-01-18,5.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-01-25,5.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-02-01,5.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-02-08,5.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-02-15,5.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-02-22,5.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-03-01,4.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-03-08,4.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-03-15,4.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-03-22,3.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-03-29,3.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-04-05,3.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-04-12,3.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-04-19,3.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-04-26,3.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-05-03,3.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-05-10,3.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-05-17,3.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-05-24,3.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-05-31,3.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-06-07,3.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-06-14,3.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-06-21,3.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-06-28,3.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-07-05,2.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-07-12,3.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-07-19,3.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-07-26,3.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-08-02,3.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-08-09,3.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-08-16,3.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-08-23,3.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-08-30,3.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-09-06,3.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-09-13,4.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-09-20,4.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-09-27,4.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-10-04,3.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-10-11,3.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-10-18,5.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-10-25,3.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-11-01,3.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-11-08,3.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-11-15,4.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-11-22,3.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-11-29,6.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-12-06,7.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-12-13,5.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-12-20,8.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1959.0,1959-12-27,8.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1960.0,1960-01-03,9.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1960.0,1960-01-10,9.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1960.0,1960-01-17,9.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1960.0,1960-01-24,9.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1960.0,1960-01-31,9.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1960.0,1960-02-07,9.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1960.0,1960-02-14,10.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1960.0,1960-02-21,10.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1960.0,1960-02-28,13.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1960.0,1960-03-06,9.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1960.0,1960-03-13,14.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1960.0,1960-03-20,13.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1960.0,1960-03-27,14.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1960.0,1960-04-03,13.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1960.0,1960-04-10,15.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1960.0,1960-04-17,15.0,6574.0,THE UGLY AMERICAN,William J. Lederer and Eugene Burdick,True,William J. Lederer and Eugene Burdick,William J. Lederer,Eugene Burdick,right_only
+,,,,,,1996.0,1996-03-31,9.0,6127.0,THE RETURN,William Shatner with Judith and Garfield Reeves-Stevens,True,William Shatner with Judith and Garfield Reeves-Stevens,William Shatner,Garfield Reeves-Stevens,right_only
+,,,,,,1996.0,1996-04-07,11.0,6127.0,THE RETURN,William Shatner with Judith and Garfield Reeves-Stevens,True,William Shatner with Judith and Garfield Reeves-Stevens,William Shatner,Garfield Reeves-Stevens,right_only
+,,,,,,1996.0,1996-04-14,11.0,6127.0,THE RETURN,William Shatner with Judith and Garfield Reeves-Stevens,True,William Shatner with Judith and Garfield Reeves-Stevens,William Shatner,Garfield Reeves-Stevens,right_only
+,,,,,,1996.0,1996-04-21,4.0,6127.0,THE RETURN,William Shatner with Judith and Garfield Reeves-Stevens,True,William Shatner with Judith and Garfield Reeves-Stevens,William Shatner,Garfield Reeves-Stevens,right_only
+,,,,,,1996.0,1996-04-28,12.0,6127.0,THE RETURN,William Shatner with Judith and Garfield Reeves-Stevens,True,William Shatner with Judith and Garfield Reeves-Stevens,William Shatner,Garfield Reeves-Stevens,right_only
+,,,,,,1996.0,1996-05-05,15.0,6127.0,THE RETURN,William Shatner with Judith and Garfield Reeves-Stevens,True,William Shatner with Judith and Garfield Reeves-Stevens,William Shatner,Garfield Reeves-Stevens,right_only
+,,,,,,1996.0,1996-05-12,15.0,6127.0,THE RETURN,William Shatner with Judith and Garfield Reeves-Stevens,True,William Shatner with Judith and Garfield Reeves-Stevens,William Shatner,Garfield Reeves-Stevens,right_only
+,,,,,,1996.0,1996-05-19,15.0,6127.0,THE RETURN,William Shatner with Judith and Garfield Reeves-Stevens,True,William Shatner with Judith and Garfield Reeves-Stevens,William Shatner,Garfield Reeves-Stevens,right_only
+,,,,,,1997.0,1997-04-27,14.0,552.0,AVENGER,William Shatner with Judith Reeves-Stevens and Garfield Reeves-Stevens,True,William Shatner with Judith Reeves-Stevens and Garfield Reeves-Stevens,William Shatner,Garfield Reeves-Stevens,right_only
+,,,,,,1997.0,1997-05-04,13.0,552.0,AVENGER,William Shatner with Judith Reeves-Stevens and Garfield Reeves-Stevens,True,William Shatner with Judith Reeves-Stevens and Garfield Reeves-Stevens,William Shatner,Garfield Reeves-Stevens,right_only
+,,,,,,1997.0,1997-05-11,14.0,552.0,AVENGER,William Shatner with Judith Reeves-Stevens and Garfield Reeves-Stevens,True,William Shatner with Judith Reeves-Stevens and Garfield Reeves-Stevens,William Shatner,Garfield Reeves-Stevens,right_only
