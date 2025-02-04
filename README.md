@@ -17,4 +17,5 @@ In the process of doing this project, I made a mistake with the cleaning that I 
 * From 1982 until 2020 there were virtually no best sellers from China.
 
 ## Next steps
-Take this data out into Tableau to visualize it more nicely.   
+* Figure out how old each author was when they first hit the nytimes best seller list.
+* Take this data out into Tableau to visualize it more nicely.   
